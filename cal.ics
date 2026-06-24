@@ -1,0 +1,3064 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:animalrightscalendar.com/ics
+X-WR-CALNAME:Animal Rights - Karlsruhe
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:675bf03a867f3bcf153295d9
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-18t13-00-00000z-marktplatz-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Vegan ins neue Jahr I Streetteam-Demo (14-17 Uhr)
+DTSTAMP:20260624T080855Z
+DTSTART:20250118T130000Z
+DTEND:20250118T160000Z
+DESCRIPTION:Gerade im Jahreswechsel überdenken viele ihre Gewohnheiten. Der
+	  https://www.veganstart.de/  tut der eigenen Gesundheit etwas Gutes\, sch
+	ützt Tiere und schont die Umwelt – also ein perfekter Neujahrsvorsatz.\n \
+	nDas Streetteam möchte mit Flyern\, Goodies\, Schildern und Gemüse-Kostüme
+	n auf die vegane Lebensweise aufmerksam machen. \n \nHintergrundinformatio
+	nen findest du unter:  https://www.peta.de/veganleben/vegane-ernaehrung/ \
+	n📌 Link zum Demoort:  https://maps.app.goo.gl/E5F1wEzCMUpEjPTB9 \n \nSei d
+	abei und hilf den Tieren!\n \nGemeinsam für Tierrechte \n \nPS: Bei unsere
+	n Demos wird nur die vegane Lebensweise vermittelt und das Leitbild von PE
+	TA vertreten. Diskriminierende Verhaltens- und Denkweisen jeglicher Art si
+	nd generell nicht geduldet. Bitte lasse deine tierische Begleitung zu Haus
+	e. Weitere Infos unter:  https://www.gemeinsam-fuer-tierrechte.de/streette
+	ams/faq/ \n \nDie Streetteams auf Social Media:\n https://www.instagram.co
+	m/peta_streetteam_karlsruhe/ \n
+URL:https://animalrightscalendar.com/events/karlsruhe-vegan-ins-neue-jahr-i
+	-streetteam-demo-14-17-uhr-675bf03a867f3bcf153295d9
+GEO:49.0092161;8.4042746
+LOCATION:Marktplatz\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67c4449860ef78f741180b23
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-03-12t13-00-00000z-sudeingang-zoologischer-stadtgarten-76137-karlsruhe.jpg
+SUMMARY:Karlsruhe: Fischerei stoppen! I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080855Z
+DTSTART:20250315T120000Z
+DTEND:20250315T150000Z
+DESCRIPTION:Der weltweite Fischkonsum steigt kontinuierlich an und lag im J
+	ahr 2023 bei etwa 20\,6 Kilogramm pro Person. Um diese unfassbar hohe Nach
+	frage zu erfüllen\, werden jährlich Billionen  https://www.peta.de/themen/
+	fische/  gefangen und sterben einen qualvollen Tod. Überfischung\, Geister
+	netze und Umweltzerstörung sind nur einige der Probleme der Fischerei. \n 
+	\nAus diesem Anlass veranstaltet das freiwillige PETA Streetteam\, passend
+	 zum "Welttag für das Ende der Fischerei"\, eine Mahnwache\, um über diese
+	s Thema zu informieren. Mit Fischkostümen\, Fischernetzen\, Flyern\, einem
+	 Infostand und einer Rede werden Aktive auf die Fischerei aufmerksam mache
+	n und aufklären. \n \nHintergrundinfos findest du unter:  https://www.peta
+	.de/themen/fischerei/ \n \n📌Link zum Demoort:  https://maps.app.goo.gl/5Wm
+	qmpxuwyqmGBuF9  \n     \n
+URL:https://animalrightscalendar.com/events/karlsruhe-fischerei-stoppen-i-s
+	treetteam-demo-13-16-uhr-67c4449860ef78f741180b23
+GEO:49.0092161;8.4042746
+LOCATION:Marktplatz - 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67a5dbe1a6d386a936d64104
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-18t13-00-00000z-marktplatz-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Fuchsjagd abschaffen! Streetteam-Demo I 12-15 Uhr
+DTSTAMP:20260624T080855Z
+DTSTART:20250222T110000Z
+DTEND:20250222T140000Z
+DESCRIPTION:Jäger:innen in Deutschland töten jedes Jahr bis zu einer halben
+	 Million  https://www.peta.de/themen/fuechse/  . Obwohl es keinen vernünft
+	igen Grund für die Fuchsjagd gibt\, werden Füchse skrupellos durch grausam
+	e Mittel wie  https://www.peta.de/aktiv/totschlagfallen-petition/  oder be
+	i der Baujagd gejagt und getötet.\nMit Fuchskostümen\, einem Infostand\, B
+	annern und einer Rede macht das Streetteam auf die Fuchsjagd aufmerksam un
+	d klärt Passant:innen über das Thema auf. \n\nHintergrundinfos findest du 
+	unter:  https://www.peta.de/themen/jagd/ \n \n📌Link zum Demoort:  https://
+	maps.app.goo.gl/5fpaB2yHtGnN2eFM9  \n \nSei dabei und hilf den Tieren!\nGe
+	meinsam für Tierrechte \n \n \n \nDas Streetteam auf Social Media: \n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-fuchsjagd-abschaffen-
+	streetteam-demo-i-12-15-uhr-67a5dbe1a6d386a936d64104
+GEO:49.0092161;8.4042746
+LOCATION:Marktplatz\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:694a815c66bce35fc2095dc5
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Vegan ins neue Jahr I Streetteam-Demo (13-15 Uhr)
+DTSTAMP:20260624T080855Z
+DTSTART:20260110T120000Z
+DTEND:20260110T140000Z
+DESCRIPTION:Gerade im Jahreswechsel überdenken viele ihre Gewohnheiten. Der
+	https://www.veganstart.de/tut der eigenen Gesundheit etwas Gutes\, schützt
+	 Tiere und schont die Umwelt – also ein perfekter Neujahrsvorsatz.\n\nDas 
+	Streetteam möchte mit Flyern\, Goodies\, Schildern und Gemüse-Kostümen auf
+	 die vegane Lebensweise aufmerksam machen.\n\nHintergrundinformationen fin
+	dest du unter:https://www.peta.de/veganleben/vegane-ernaehrung/\n\n📌 Link 
+	zum Demoort:https://maps.app.goo.gl/E5F1wEzCMUpEjPTB9\n\nSei dabei und hil
+	f den Tieren!\n\nGemeinsam für Tierrechte\n\nPS: Bei unseren Demos wird nu
+	r die vegane Lebensweise vermittelt und das Leitbild von PETA vertreten. D
+	iskriminierende Verhaltens- und Denkweisen jeglicher Art sind generell nic
+	ht geduldet. Bitte lasse deine tierische Begleitung zu Hause. Weitere Info
+	s unter:https://www.gemeinsam-fuer-tierrechte.de/streetteams/faq/\n\nDie S
+	treetteams auf Social Media:\nhttps://www.instagram.com/peta_streetteam_ka
+	rlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-vegan-ins-neue-jahr-i
+	-streetteam-demo-13-15-uhr-694a815c66bce35fc2095dc5
+GEO:49.0092161;8.4042746
+LOCATION:Marktplatz\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:681225a6c13cd37437deba57
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-03t13-30-00000z-festplatz-im-burggartengelande-63456-hanau.jpg
+SUMMARY:Karlsruhe: Fleisch ist Mord I Streetteam-Demoam I 13 - 16 Uhr
+DTSTAMP:20260624T080855Z
+DTSTART:20250510T110000Z
+DTEND:20250510T120000Z
+DESCRIPTION:Fleisch auf dem Teller bedeutet immer den Tod eines fühlenden L
+	ebewesens. Allein inDeutschland müssenjährlichknapp 800 Millionen Landlebe
+	wesen für die „Produktion“ vonFleisch völlig unnötig leiden und sterben.\n
+	Dasfreiwillige PETA StreetteamKarlsruhemacht daher amSamstag\, den10.Mai\,
+	ab 13Uhrin der Innenstadt auf das Leid der Tiere in der landwirtschaftlich
+	en Tierhaltungaufmerksam.\nWährend der provokanten Aktion zeigt ein:emit K
+	unstblut beschmierte und inlebensgroßer Fleischschale unter Zellophan verp
+	ackte Aktivist:in\, wie im Supermarktangebotenes Menschenfleisch aussehen 
+	könnte. Weitere Aktive fordern mit Schildern undFlyern zum Umstieg auf ein
+	e pflanzliche Ernährungsweise auf.\nHintergrundinfos zum Demothema findest
+	 du unter:https://www.peta.de/themen/fleisch/\n\n📌Link zum Demoort:https:/
+	/maps.app.goo.gl/FxyjTwk67r7RH7EN6\n\nSei dabei und hilf den Tieren!\nGeme
+	insam für Tierrechte\n\nDas Streetteam auf Social Media:https://www.instag
+	ram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-fleisch-ist-mord-i-st
+	reetteam-demoam-i-13-16-uhr-681225a6c13cd37437deba57
+GEO:49.0092161;8.4042746
+LOCATION:Marktplatz\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67f270263ec129b2562269d7
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-03t13-30-00000z-festplatz-im-burggartengelande-63456-hanau.jpg
+SUMMARY:Karlsruhe: Eier bedeuten Tierleid! I Streetteam-Demo (13-16Uhr)
+DTSTAMP:20260624T080855Z
+DTSTART:20250412T110000Z
+DTEND:20250412T140000Z
+DESCRIPTION:Hinter jedem Ei aus der Eierindustrie steckt Tierquälerei: tote
+	 Hennen\, Knochenbrüche\, entzündete Legeorgane und kahlgepickte Tiere – m
+	ehrerehttps://www.peta.de/themen/eier-vom-bauern-in-naehe/haben gezeigt\, 
+	wie es den krank gezüchteten Hennen fernab der vorgegaukelten Werbeidylle 
+	geht.\n\nDasappelliert an alle Menschen\, sich eifrei zu machen. Dazu wird
+	 auf dem Boden Stroh auslegt\, auf dem mit Kunstblut bespritzte Eier liege
+	n. Dahinter wird ein:e Aktive:r im Hühnerkostüm hinter Gittern sitzen. Zus
+	ätzlich wird mit Kreide aufgezeichnet\, wie wenig Platz Hennen in den vers
+	chiedenen Haltungsformen haben.\nHintergrundinformationen findest du unter
+	:https://www.peta.de/themen/eier/\n\nLink zum Demoort:https://maps.app.goo
+	.gl/4HEacjnHVa14d9AL9\n\n\nSei dabei und hilf den Tieren!\n\nGemeinsam für
+	 Tierrechte\n\nPS: Bei unseren Demos wird nur die vegane Lebensweise vermi
+	ttelt und das Leitbild von PETA vertreten. Diskriminierende Verhaltens- un
+	d Denkweisen jeglicher Art sind generell nicht geduldet. Bitte lasse deine
+	 tierische Begleitung zu Hause. Weitere Infos unter:https://www.gemeinsam-
+	fuer-tierrechte.de/streetteams/faq/\n\n\nDas Streetteam auf Social Media:\
+	nhttps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-eier-bedeuten-tierlei
+	d-i-streetteam-demo-13-16uhr-67f270263ec129b2562269d7
+GEO:49.009466;8.4039033
+LOCATION:Wasserspiele\, Marktplatz\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69258fe12609203d1fff98a1
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Vegane Festtage I Streetteam-Demo (16-18 Uhr)
+DTSTAMP:20260624T080855Z
+DTSTART:20251203T150000Z
+DTEND:20251203T160000Z
+DESCRIPTION:\n\n\nDas Streetteam auf Social Media:\nhttps://www.instagram.c
+	om/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-vegane-festtage-i-str
+	eetteam-demo-16-18-uhr-69258fe12609203d1fff98a1
+GEO:49.0089291;8.4038611
+LOCATION:Marktplatz\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:675069fd49ae0deecaad17ab
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-03t13-30-00000z-festplatz-im-burggartengelande-63456-hanau.jpg
+SUMMARY:Karlsruhe: Mitgefühl statt Feuerwerk
+DTSTAMP:20260624T080855Z
+DTSTART:20241228T120000Z
+DTEND:20241228T140000Z
+DESCRIPTION:Jedes Jahr leiden die Tiere an Silvester unter dem Krach\, den 
+	grellen Blitzen und den unbekannten Gerüchen. Für sie ist der Jahreswechse
+	l oft eine traumatische Erfahrung\, die zu Angstzuständen führen kann. Jed
+	es Jahr entlaufen hunderte Hunde und Katzen aus Angst.\n https://www.peta.
+	de/themen/wildtiere-silvester/  fliehen panisch vor dem Lärm\, was lebensb
+	edrohliche Folgen für sie haben kann – beispielsweise durch  https://www.p
+	eta.de/themen/wildunfaelle/  \, wenn Tiere durch den Lärm aus dem Wintersc
+	hlaf gerissen werden oder Vögel mit Feuerwerkskörpern kollidieren. Das Str
+	eetteam informiert mit Videos\, Flyer\, Schilder und Reden über das Leid d
+	er Tiere bei Feuerwerken.\n \nHintergrundinformationen findest du unter:  
+	https://www.peta.de/themen/wildtiere-silvester/ \n \n📌 Link zum Demoort:  
+	https://maps.app.goo.gl/c3nyLJn4rKf74Nxy6 \n \n \nSei dabei und hilf den T
+	ieren! \n \nGemeinsam für Tierrechte \n \nPS: Bei unseren Demos wird nur d
+	ie vegane Lebensweise vermittelt und das Leitbild von PETA vertreten. Disk
+	riminierende Verhaltens- und Denkweisen jeglicher Art sind generell nicht 
+	geduldet. Bitte lasse deine tierische Begleitung zu Hause. Weitere Infos u
+	nter:  https://www.gemeinsam-fuer-tierrechte.de/streetteams/faq/ \nDie Str
+	eetteams auf Social Media:\n https://www.instagram.com/peta_streetteam_kar
+	lsruhe/ \n
+URL:https://animalrightscalendar.com/events/karlsruhe-mitgefuhl-statt-feuer
+	werk-675069fd49ae0deecaad17ab
+GEO:49.009654;8.4026838
+LOCATION:Lammstraße & Kaiserstraße (Kreuzung) - 76133 Karlsruhe-Innenstadt-
+	West
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67a3aed1a6d386a936d5e251
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67227ddcbd1a66952c63bee1/1543111179660233.jpg
+SUMMARY:Cube of Truth: Karlsruhe: 8. Februar: 14:00
+DTSTAMP:20260624T080855Z
+DTSTART:20250208T130000Z
+DTEND:20250208T160000Z
+DESCRIPTION:Wenn ihr daran interessiert seid\, über zukünftige Ortsgruppen 
+	-  Aktivitäten auf dem Laufenden zu bleiben\, schließt euch bitte der folg
+	enden Freiwilligengruppe bei Facebook\nan:\n https://www.facebook.com/grou
+	ps/335071813625826/ \nDer Cube of Truth ist eine Straßen Kampagne\, die di
+	rekte Aktionen in der Öffentlichkeit in strukturierter Weise durchführt. W
+	ir verwenden Filmmaterial von Standardpraktiken\, das auf Bildschirmen gez
+	eigt wird\, um der Öffentlichkeit die Wahrheit über die Tierhaltung zu ent
+	hüllen\, und führen Einzelgespräche\, um sie über die Ausbeutung von Tiere
+	n aufzuklären. Bevor ihr an einer Cube of Truth Demonstration teilnehmt\, 
+	ist es zwingend erforderlich\, dass ihr euch mit unserem AV-Outreach-Proto
+	koll vertraut macht\, indem ihr euch den vollständigen Workshop "Nicht- ve
+	gane Menschen zur Verantwortung ziehen" anseht und unser AV-Outreach-Proto
+	koll Dokument lest:\nHolding Non-Vegans Accountable Workshop:\n https://bi
+	t.ly/holdingnonvegansaccountable3 \nAV Outreach Protocol:\n https://bit.ly
+	/AVOutreachProtocol  \nMasken\, Schilder und Karten werden von den Organis
+	ern zur Verfügung gestellt. Bitte bringt einen voll aufgeladenen Laptop od
+	er ein Tablet mit\, falls ihr habt\, mit unserem\, von euch bereits herunt
+	ergeladenen\, Standard-Cube-Material und dem empfohlenen Media-Player. All
+	es sollte bereit sein\, in Endlosschleife abgespielt zu werden. Es ist wic
+	htig\, dass ihr eure Geräte rechtzeitig vorbereitet. Stellt bitte sicher\,
+	 dass euer Gerät stummgeschaltet ist\, dass Wi-Fi deaktiviert ist (um die 
+	Akkulaufzeit zu erhalten)\, dass die Helligkeit maximiert und der Passwort
+	schutz deaktiviert ist.\nEmpfohlener  Media Player:\n http://www.videolan.
+	org/vlc/ \nCube Bildmaterial:\n https://www.anonymousforthevoiceless.org/e
+	vent-footage  \n\n\nWenn ihr an einem Cube of Truth teilnehmt\, bringt bit
+	te keine Taschen oder persönliche Gegenstände mit\, es sei denn\, dies ist
+	 unbedingt notwendig. Falls doch\, bedeutet dies\, dass ihr eure Tasche fü
+	r die Dauer der Veranstaltung tragen werdet\, packt also bitte leicht. All
+	e zum Cube mitgebrachten Gegenstände unterliegen eurer eigenen Verantwortu
+	ng. DIE ORGANISER WERDEN EURE PERSÖNLICHEN GEGENSTÄNDE NICHT AUFBEWAHREN U
+	ND SIND IN KEINER WEISE FÜR SIE VERANTWORTLICH.\nTragt bitte stets wettera
+	ngepasste Kleidung mit AV Label oder KOMPLETT SCHWARZ ohne Aufschriften od
+	er Logos anderer Organisationen und/oder veganer Botschaften. Dies ist für
+	 unsere Ästhetik unerlässlich. Ihr könnt offizielle AV-Kleidung auf unsere
+	r Website kaufen:  http://cubeoftruth.com/  An einem Cube of Truth darf au
+	f keinen Fall Kleidung aus Tiermaterial und kein Kunstpelz (einschließlich
+	 Kunstpelzbesatz) getragen werden.\nRespektiert bitte jederzeit die Organi
+	ser der AV-Ortsgruppen und andere Freiwillige\, haltet euch an unsere Stru
+	ktur und vertretet unsere Grundwerte\, während ihr an einem Cube of Truth 
+	teilnehmt. Die Ernsthaftigkeit und Professionalität unseres Handelns stehe
+	n in direktem Verhältnis dazu\, wie die Öffentlichkeit uns wahrnimmt.\n\n\
+	nDanke\, dass ihr mit uns  aufsteht.\n____________________________________
+	____________________________________\nThe Cube of Truth is a street outrea
+	ch campaign that employs direct action with the public\, in a structured m
+	anner. We use standard practice footage displayed on screens to expose the
+	 truth about animal agriculture to the public and one on one conversations
+	 to educate them about animal exploitation. Before attending a Cube of Tru
+	th it is mandatory that you learn our AV Outreach Protocol by watching the
+	 full “Holding Non-Vegans Accountable” outreach workshop and reading our A
+	V Outreach Protocol document:\nHolding Non-Vegans Accountable Workshop:\n 
+	https://bit.ly/holdingnonvegansaccountable3 \nAV Outreach Protocol:\n http
+	s://bit.ly/AVOutreachProtocol  \nMasks\, signs\, and outreach cards are pr
+	ovided by the organisers. Please bring a fully charged laptop or tablet if
+	 you have one\, with our standard Cube footage and recommended media playe
+	r already downloaded and ready to play on a loop. It is important to prepa
+	re your device ahead of time. Make sure your device is muted\, has Wi-Fi d
+	isabled (to preserve battery life)\, has brightness maximized and password
+	 protection disabled.\nRecommended Media Player:\n http://www.videolan.org
+	/vlc/ \nCube Footage:\n https://www.anonymousforthevoiceless.org/event-foo
+	tage  \nWhen attending a Cube of Truth\, please do not bring bags or perso
+	nal belongings unless you absolutely need to. If you do\, this means you w
+	ill be wearing your bag for the duration of the event\, so pack lightly. A
+	ny items brought to the Cube are your responsibility. ORGANISERS WILL NOT 
+	BE STORING AND ARE NOT RESPONSIBLE FOR YOUR PERSONAL BELONGINGS IN ANY WAY
+	. \nAlways wear weather appropriate\, PLAIN BLACK or AV branded clothing w
+	ithout any graphics\, including logos of other organisations and/or vegan 
+	messages. This is essential to our aesthetic. You can purchase official AV
+	 clothing on our website:  http://cubeoftruth.com/  Absolutely no animal d
+	erived clothing\, footwear and no fake fur (including faux fur trims) is t
+	o be worn at a Cube of Truth.\nRespect AV chapter organisers and other vol
+	unteers at all times\, adhere to our structure and represent our core valu
+	es while attending a Cube of Truth. The seriousness and professionalism of
+	 our actions are directly proportional to how the public perceives us.\nTh
+	ank You for Standing With Us.\n___________________________________________
+	___________________________________\n\n\n\n\n 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-8-febru
+	ar-14-00-67a3aed1a6d386a936d5e251
+GEO:49.009654;8.4026838
+LOCATION:Kaiserstraße\, Kaiserstraße\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6725527fd488deb291a3681e
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/1730206294466659.jpg
+SUMMARY:Cube of Truth: Karlsruhe: December 14th
+DTSTAMP:20260624T080855Z
+DTSTART:20241214T130000Z
+DTEND:20241214T160000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-decembe
+	r-14th-6725527fd488deb291a3681e
+GEO:49.00969775;8.402678009520464
+LOCATION:49.009728\, 8.402641
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6746fbfe09e7ef60972743b7
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/1730206294466659.jpg
+SUMMARY:Cube of Truth: Karlsruhe: September 28th
+DTSTAMP:20260624T080855Z
+DTSTART:20240928T120000Z
+DTEND:20240928T150000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-septemb
+	er-28th-6746fbfe09e7ef60972743b7
+GEO:49.0097833;8.4024856
+LOCATION:49.009728\, 8.402641
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67410f45b434cfdf738d3383
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2024-11-23t13-00-00000z-kaiserstrae-ecke-lammstrae-76133-karlsruhe-neben-dem-karstadt.jpg
+SUMMARY:Karlsruhe: Adoptieren statt kaufen! I Streetteam Demo am 23.11.2024
+DTSTAMP:20260624T080855Z
+DTSTART:20241123T130000Z
+DTEND:20241123T160000Z
+DESCRIPTION:Hunde\, Katzen\, Meerschweinchen und Co.\, die in Internetforen
+	\,https://www.peta.de/themen/zoohandlungen/\, Gartencentern und Baumärkten
+	 angeboten werden\, haben meist einen langen Leidensweg in Zuchtanlagen hi
+	nter sich\, in denen das einzelne Individuum keine Bedeutung hat. Kranke u
+	nd tote Tiere sind keine Seltenheit\, werden von der Industrie bewusst in 
+	Kauf genommen und sogar mit einkalkuliert.\n\nDarum protestiert dasmit ein
+	er Person im Kanninchen-Kostüm in einem Käfig und fordert: Adoptieren stat
+	t kaufen! Weitere Aktive halten Schilder oder verteilen Flyer.\n\nHintergr
+	undinfos findest du unter:https://www.peta.de/themen/tiere-adoptieren/\n\n
+	📌 Link zum Demoort:https://maps.app.goo.gl/G7CypquriabtfNTZ9\n\n\n\nSei da
+	bei und hilf den Tieren!\n\nGemeinsam für Tierrechte &lt\;3\n\n\n\nPS: Bei
+	 unseren Demos wird nur die vegane Lebensweise vermittelt und das Leitbild
+	 von PETA vertreten. Diskriminierende Verhaltens- und Denkweisen jeglicher
+	 Art sind generell nicht geduldet. Bitte lasse deine tierische Begleitung 
+	zu Hause. Weitere Infos unter:https://www.gemeinsam-fuer-tierrechte.de/str
+	eetteams/faq/\n\n\n\nDas Streetteam auf Social Media:\nhttps://www.instagr
+	am.com/peta_streetteam_karlsruhe/?hl=de\n
+URL:https://animalrightscalendar.com/events/karlsruhe-adoptieren-statt-kauf
+	en-i-streetteam-demo-am-23-11-2024-67410f45b434cfdf738d3383
+GEO:49.0094642;8.4021255
+LOCATION:Kaiserstraße\, Ecke Lammstraße\, 76133 Karlsruhe\, neben dem Karst
+	adt
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68d545262d6429f7d2c4b833
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Tierleid ist untragbar! I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080855Z
+DTSTART:20251011T110000Z
+DTEND:20251011T120000Z
+DESCRIPTION:Im Namen der Mode werden jährlich mehrere Millionen von Tieren 
+	ausgebeutet und getötet. Um an ihre Federn zu kommen\, wird Enten und Gäns
+	en die Kehle aufgeschlitzt oder sie werden bei lebendigem Leib gerupft. Sc
+	hafe in der Wollindustrie werden meist ohne Betäubung kastriert und im Akk
+	ordtempo geschoren\, sodass oft Hautteile oder ganze Brustwarzen mit abges
+	chnitten werden. Rinder in der Lederindustrie sind dazu gezwungen\, grausa
+	me Standardprozeduren über sich ergehen zu lassen\, etwa betäubungslose Ka
+	strationen\, Brandmarkungen im Gesicht sowie das Kupieren der Schwänze und
+	 Hörner.\n\nDeshalb klärt das Streetteam mit Morphsuits\, Tiermasken\, Ban
+	nern und Plakaten über die Tierquälerei in der Bekleidungsindustrie auf un
+	d informiert über tierleidfreie Alternativen.\nHintergrundinformationen fi
+	ndest du unter:https://www.peta.de/themen/bekleidung/\n\n📌 Link zum Demoor
+	t:https://maps.app.goo.gl/GBEdHQYk1aaFf5vA8\nSei dabei und hilf den Tieren
+	!\nGemeinsam für Tierrechte\n\n\n\nDas Streetteam auf Social Media:\nhttps
+	://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-tierleid-ist-untragba
+	r-i-streetteam-demo-13-16-uhr-68d545262d6429f7d2c4b833
+GEO:49.0108549;8.403708
+LOCATION:Schlossplatz\, 76131 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:699f33ff3772a293db6b4eed
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: March 21st
+DTSTAMP:20260624T080855Z
+DTSTART:20260321T140000Z
+DTEND:20260321T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-march-2
+	1st-699f33ff3772a293db6b4eed
+GEO:49.0091747;8.4019348
+LOCATION:Kaiserstraße 147-159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:699f34083772a293db6b4f59
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: April 18th
+DTSTAMP:20260624T080855Z
+DTSTART:20260418T130000Z
+DTEND:20260418T160000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-april-1
+	8th-699f34083772a293db6b4f59
+GEO:49.0091747;8.4019348
+LOCATION:Kaiserstraße 147-159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6977f6a1fba735b58bac8fc5
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: February 21st
+DTSTAMP:20260624T080856Z
+DTSTART:20260221T140000Z
+DTEND:20260221T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-februar
+	y-21st-6977f6a1fba735b58bac8fc5
+GEO:49.0091747;8.4019348
+LOCATION:Kaiserstraße 147-159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:699f34123772a293db6b4fec
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/1088030149935981.jpg
+SUMMARY:Cube of Truth: Karlsruhe: June 13th
+DTSTAMP:20260624T080856Z
+DTSTART:20260613T140000Z
+DTEND:20260613T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-june-13
+	th-699f34123772a293db6b4fec
+GEO:49.0091747;8.4019348
+LOCATION:Kaiserstraße 147-159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:699f340d3772a293db6b4faa
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: May 23rd
+DTSTAMP:20260624T080856Z
+DTSTART:20260523T140000Z
+DTEND:20260523T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-may-23r
+	d-699f340d3772a293db6b4faa
+GEO:49.0091747;8.4019348
+LOCATION:Kaiserstraße 147-159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0c21b8463ac17349f54d07
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4842.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - WTF Movie Challenge\, 13. Juni 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260613T120000Z
+DTEND:20260613T150000Z
+DESCRIPTION:🎬 3-Minuten-Film-Challenge\nEntdecken Sie in nur drei Minuten d
+	ie Wahrheit hinter der Tierhaltung. Bei dieser einzigartigen Veranstaltung
+	 ist die Öffentlichkeit eingeladen\, sich einen kurzen\, eindrucksvollen F
+	ilm anzusehen\, der Standardpraktiken der Branche enthüllt. Im Gegenzug er
+	halten sie ein kostenloses veganes Leckerli. Es ist eine effektive und ans
+	prechende Möglichkeit\, sinnvolle Gespräche über Tierrechte anzustoßen.\n📍
+	 Veranstaltungsinformationen\n• Sie müssen nichts mitbringen – alle Materi
+	alien werden bereitgestellt.\n• Bitte vermeiden Sie das Tragen von Kleidun
+	g tierischen Ursprungs oder von veganen Slogans (um den Überraschungseffek
+	t zu bewahren).\n• Neu in der Freiwilligenarbeit? Erstellen Sie ein Konto 
+	unter https://www.mystats.wtf. Der Veranstalter hilft Ihnen beim Einstieg.
+	\nWeitere Informationen: https://www.activism.wtf/mystats\n🧠 Bereiten Sie 
+	sich vor und machen Sie mit\n• Möchten Sie Ihre Advocacy-Fähigkeiten auffr
+	ischen? Besuchen Sie https://www.activism.wtf/training\n• RSVP\, damit wir
+	 entsprechend planen können – und bringen Sie gerne vegane Freunde mit\, u
+	m zu helfen!\n• Treten Sie Ihrer lokalen WTF-Gruppe für Updates bei: https
+	://getinvolved.activism.wtf/?team=karlsruhe_de\n💛 Unterstützen Sie WTF\, i
+	ndem Sie Sponsor werden: https://www.activism.wtf/donate\n🛍 Unterstützen S
+	ie die Sache mit Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-wtf-movie
+	-challenge-13-juni-2026-6a0c21b8463ac17349f54d07
+GEO:49.0098598;8.4019716
+LOCATION:Kaiserstraße 90\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a030766463ac17349893c0f
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4804.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - WTF Movie Challenge\, 30. Mai 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260530T123000Z
+DTEND:20260530T153000Z
+DESCRIPTION:🎬 3-Minuten-Film-Challenge\nEntdecken Sie in nur drei Minuten d
+	ie Wahrheit hinter der Tierhaltung. Bei dieser einzigartigen Veranstaltung
+	 ist die Öffentlichkeit eingeladen\, sich einen kurzen\, eindrucksvollen F
+	ilm anzusehen\, der Standardpraktiken der Branche enthüllt. Im Gegenzug er
+	halten sie ein kostenloses veganes Leckerli. Es ist eine effektive und ans
+	prechende Möglichkeit\, sinnvolle Gespräche über Tierrechte anzustoßen.\n📍
+	 Veranstaltungsinformationen\n• Sie müssen nichts mitbringen – alle Materi
+	alien werden bereitgestellt.\n• Bitte vermeiden Sie das Tragen von Kleidun
+	g tierischen Ursprungs oder von veganen Slogans (um den Überraschungseffek
+	t zu bewahren).\n• Neu in der Freiwilligenarbeit? Erstellen Sie ein Konto 
+	unter https://www.mystats.wtf. Der Veranstalter hilft Ihnen beim Einstieg.
+	\nWeitere Informationen: https://www.activism.wtf/mystats\n🧠 Bereiten Sie 
+	sich vor und machen Sie mit\n• Möchten Sie Ihre Advocacy-Fähigkeiten auffr
+	ischen? Besuchen Sie https://www.activism.wtf/training\n• RSVP\, damit wir
+	 entsprechend planen können – und bringen Sie gerne vegane Freunde mit\, u
+	m zu helfen!\n• Treten Sie Ihrer lokalen WTF-Gruppe für Updates bei: https
+	://getinvolved.activism.wtf/?team=karlsruhe_de\n💛 Unterstützen Sie WTF\, i
+	ndem Sie Sponsor werden: https://www.activism.wtf/donate\n🛍 Unterstützen S
+	ie die Sache mit Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-wtf-movie
+	-challenge-30-mai-2026-6a030766463ac17349893c0f
+GEO:49.0098598;8.4019716
+LOCATION:Kaiserstraße 90\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0c21a1463ac17349f54c5f
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4804.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - WTF Movie Challenge\, 30. Mai 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260530T120000Z
+DTEND:20260530T150000Z
+DESCRIPTION:🎬 3-Minuten-Film-Challenge\nEntdecken Sie in nur drei Minuten d
+	ie Wahrheit hinter der Tierhaltung. Bei dieser einzigartigen Veranstaltung
+	 ist die Öffentlichkeit eingeladen\, sich einen kurzen\, eindrucksvollen F
+	ilm anzusehen\, der Standardpraktiken der Branche enthüllt. Im Gegenzug er
+	halten sie ein kostenloses veganes Leckerli. Es ist eine effektive und ans
+	prechende Möglichkeit\, sinnvolle Gespräche über Tierrechte anzustoßen.\n📍
+	 Veranstaltungsinformationen\n• Sie müssen nichts mitbringen – alle Materi
+	alien werden bereitgestellt.\n• Bitte vermeiden Sie das Tragen von Kleidun
+	g tierischen Ursprungs oder von veganen Slogans (um den Überraschungseffek
+	t zu bewahren).\n• Neu in der Freiwilligenarbeit? Erstellen Sie ein Konto 
+	unter https://www.mystats.wtf. Der Veranstalter hilft Ihnen beim Einstieg.
+	\nWeitere Informationen: https://www.activism.wtf/mystats\n🧠 Bereiten Sie 
+	sich vor und machen Sie mit\n• Möchten Sie Ihre Advocacy-Fähigkeiten auffr
+	ischen? Besuchen Sie https://www.activism.wtf/training\n• RSVP\, damit wir
+	 entsprechend planen können – und bringen Sie gerne vegane Freunde mit\, u
+	m zu helfen!\n• Treten Sie Ihrer lokalen WTF-Gruppe für Updates bei: https
+	://getinvolved.activism.wtf/?team=karlsruhe_de\n💛 Unterstützen Sie WTF\, i
+	ndem Sie Sponsor werden: https://www.activism.wtf/donate\n🛍 Unterstützen S
+	ie die Sache mit Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-wtf-movie
+	-challenge-30-mai-2026-6a0c21a1463ac17349f54c5f
+GEO:49.0098598;8.4019716
+LOCATION:Kaiserstraße 90\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:699c556d3772a293db60c41a
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/689158851f0e580f9079982b/image.jpg
+SUMMARY:NEON Karlsruhe
+DTSTAMP:20260624T080856Z
+DTSTART:20260228T100000Z
+DTEND:20260228T130000Z
+DESCRIPTION:(No description available)
+URL:https://animalrightscalendar.com/events/neon-karlsruhe-699c556d3772a293
+	db60c41a
+GEO:49.0095827;8.4010194
+LOCATION:Kaiserstraße 159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68ffc4144e8c7648d70b772b
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/689158851f0e580f9079982b/image.jpg
+SUMMARY:Karlsruhe: NEON #2 Kaiserstraße 159
+DTSTAMP:20260624T080856Z
+DTSTART:20251115T094500Z
+DTEND:20251115T130000Z
+DESCRIPTION:(No description available)
+URL:https://animalrightscalendar.com/events/karlsruhe-neon-2-kaiserstrasse-
+	159-68ffc4144e8c7648d70b772b
+GEO:49.0095827;8.4010194
+LOCATION:Kaiserstraße 159\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68efa14d2d6429f7d2d341d3
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/689158851f0e580f9079982b/image.jpg
+SUMMARY:Karlsruhe: Neon Black #1 
+DTSTAMP:20260624T080856Z
+DTSTART:20251019T120000Z
+DTEND:20251019T150000Z
+DESCRIPTION:(No description available)
+URL:https://animalrightscalendar.com/events/karlsruhe-neon-black-1-68efa14d
+	2d6429f7d2d341d3
+GEO:49.0118142;8.404199100000001
+LOCATION:Schlossplatz\, Schloßpl. 12\, 76131 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69dd4bb59dd21554c8c7a8be
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4664.jpg
+SUMMARY:🌿 Picknick mit WTF Karlsruhe
+DTSTAMP:20260624T080856Z
+DTSTART:20260510T123000Z
+DTEND:20260510T153000Z
+DESCRIPTION:🥳 Gesellschaftliches Event: Bauen Sie Verbindungen und Gemeinsc
+	haft auf\nBegleiten Sie uns zu einem entspannten und unterhaltsamen Treffe
+	n\, bei dem es um die Stärkung unserer Gemeinschaft geht. Gesellschaftlich
+	e Veranstaltungen sind für das Wachstum unserer Bewegung\, den Kontakt zu 
+	anderen Aktivisten und die Sicherstellung\, dass die Interessenvertretung 
+	nachhaltig und unterhaltsam bleibt\, von wesentlicher Bedeutung. Ganz glei
+	ch\, ob Sie neu in der Gruppe oder ein langjähriges Mitglied sind: Lernen 
+	Sie neue Leute kennen\, tauschen Sie Ideen aus und tanken Sie neue Energie
+	 in einer freundlichen\, unterstützenden Umgebung.\n📍 Veranstaltungsinform
+	ationen\n• Bitte RSVP\, damit der Veranstalter den Veranstaltungsort\, die
+	 Räumlichkeiten und die Aktivitäten entsprechend planen kann.\n🧠 Bereiten 
+	Sie sich vor und machen Sie mit\n• Bringen Sie gerne Freunde oder andere I
+	nteressierte aus unserer Community mit – es ist eine perfekte Gelegenheit 
+	für sie\, uns kennenzulernen!\n💛 Unterstützen Sie WTF\, indem Sie Sponsor 
+	werden: https://www.activism.wtf/donate\n🛍 Unterstützen Sie die Sache mit 
+	Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/picknick-mit-wtf-karlsruhe-69dd
+	4bb59dd21554c8c7a8be
+GEO:49.0068901;8.4036527
+LOCATION:Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69bdb4c13772a293db68cdd0
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4559.jpg
+SUMMARY:WTF: Karlsruhe – Erstes Community-Treffen\, 04. April 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260404T130000Z
+DTEND:20260404T160000Z
+DESCRIPTION:🥳 Community Event: Erstes Treffen für We The Free Karlsruhe\nKo
+	mm zu unserem allerersten Community-Treffen – We The Free Karlsruhe legt o
+	ffiziell los! Ein entspanntes\, lockeres Kennenlernen\, bei dem wir Fragen
+	 zu WTF klären und gemeinsam den Grundstein für unsere ersten Aktionen leg
+	en.\n📍 Infos zur Veranstaltung\n• Datum: Samstag\, 4. April 2026 – 15:00 U
+	hr\n• Ort: Schlossgarten (bei gutem Wetter) / Café Intro (bei Regen) – wir
+	 geben kurz vorher Bescheid!\n• Bitte melde dich an\, damit wir gut planen
+	 können.\n🧠 Was euch erwartet\n• Dies ist das erste von drei Community-Eve
+	nts\, bevor wir unsere erste Outreach-Aktion starten – eine tolle Gelegenh
+	eit\, andere Aktivist:innen kennenzulernen und WTFs Ansatz besser zu verst
+	ehen.\n• Unsere erste 3-Minutes Movie Challenge ist für Juni geplant – meh
+	r Details folgen bald!\n• Bringt gerne Freund:innen mit\, die neugierig au
+	f Tierrechte oder Veganismus sind.\n💛 Unterstütze WTF als Sponsor: https:/
+	/www.activism.wtf/donate\n🛍 Unterstütze die Bewegung mit Merch: https://ww
+	w.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-erstes-community-
+	treffen-04-april-2026-69bdb4c13772a293db68cdd0
+GEO:49.0068901;8.4036527
+LOCATION:Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67c7b0b069d6f8bf3004caab
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67227ddcbd1a66952c63bee1/1543111179660233.jpg
+SUMMARY:Cube of Truth: Karlsruhe: 8. März: 14:00 
+DTSTAMP:20260624T080856Z
+DTSTART:20250308T130000Z
+DTEND:20250308T160000Z
+DESCRIPTION:Wenn ihr daran interessiert seid\, über zukünftige Ortsgruppen 
+	-  Aktivitäten auf dem Laufenden zu bleiben\, schließt euch bitte der folg
+	enden Freiwilligengruppe bei Facebook\nan:\n https://www.facebook.com/grou
+	ps/335071813625826/ \nBevor du an einem Cube of Truth teilnimmst\, solltes
+	t du dich unbedingt mit unserem AV-Protokoll vertraut machen\, indem du di
+	r die komplette AV-Masterclass ansiehst\, die auch den neuesten Workshop „
+	Holding Non-Vegans Accountable“ (Nicht-Veganer zur Rechenschaft ziehen) en
+	thält\, und unser AV-Flowchart-Dokument hier lesen:\n  http://activism101.
+	com/  \nDer Cube of Truth ist eine Straßenkampagne\, die direkte Aktionen 
+	mit der Öffentlichkeit auf strukturierte Art und Weise durchführt. Wir ver
+	wenden Standardpraktiken der Tierindustrie\, welche auf Bildschirmen gezei
+	gt werden\, um der Öffentlichkeit die Wahrheit über die Tierhaltung zu zei
+	gen\, und Einzelgespräche\, um sie über die Ausbeutung von Tieren aufzuklä
+	ren.\nMasken\, Schilder und Aktionskarten werden von den Organisatoren zur
+	 Verfügung gestellt. Bitte bring einen voll aufgeladenen Laptop oder ein T
+	ablet mit\, wenn du eines hast\, auf dem unser Standard-Cube-Filmmaterial 
+	und der empfohlene Mediaplayer bereits heruntergeladen und zum Abspielen i
+	n einer Schleife bereit sind. Es ist wichtig\, dass du dein Gerät vor der 
+	Veranstaltung vorbereitest. Vergewissere dich\, dass dein Gerät stummgesch
+	altet ist\, die Wi-Fi-Funktion deaktiviert ist (um den Akku zu schonen)\, 
+	die Helligkeit maximiert ist und der Passwortschutz deaktiviert ist.\nEmpf
+	ohlener Media Player:  http://www.videolan.org/vlc \nCube-Filmmaterial:  h
+	ttp://www.anonymousforthevoiceless.org/event-footage  \nWenn du an einem C
+	ube of Truth teilnimmst\, nimm bitte keine Taschen oder persönlichen Gegen
+	stände mit\, es sei denn\, du brauchst sie unbedingt. Wenn du dies tust\, 
+	bedeutet dies\, dass du deine Tasche für die Dauer der Veranstaltung trage
+	n wirst\, also pack nur wenig ein. Für alle Gegenstände\, die du zum Cube 
+	mitbringst\, bist du selbst verantwortlich. DIE ORGANISATOREN WERDEN DEINE
+	 PERSÖNLICHEN GEGENSTÄNDE NICHT AUFBEWAHREN UND SIND IN KEINER WEISE FÜR S
+	IE VERANTWORTLICH. \nTrage immer wettergerechte\, EINFACH SCHWARZE Kleidun
+	g ohne Grafiken\, Logos anderer Organisationen und/oder Botschaften\, die 
+	nicht mit unserer abolitionistischen Haltung übereinstimmen\, oder trage K
+	leidung der Marke AV ohne die Zeile „Animals - Environment - Health“. Dies
+	 ist wesentlich für unsere Ästhetik. Du kannst offizielle AV-Kleidung auf 
+	unserer Website kaufen:  http://cubeoftruth.com/  Auf einem Cube of Truth 
+	dürfen weder Kleidung noch Schuhe aus tier-basierten Matierialien noch Kun
+	stpelz (einschließlich Kunstpelzbesatz) getragen werden.\nRespektiere die 
+	Organisatoren des AV-Chapters und andere Freiwillige zu jeder Zeit\, halte
+	 dich an unsere Struktur und vertritt unsere Grundwerte\, wenn du an einem
+	 Cube of Truth teilnimmst. Die Ernsthaftigkeit und Professionalität unsere
+	s Handelns ist direkt proportional dazu\, wie die Öffentlichkeit uns wahrn
+	immt.\nDanke\, dass du uns beistehst\nIf you are interested in staying up 
+	to date on future chapter activity\, please join the following volunteer g
+	roup: \n https://www.facebook.com/groups/335071813625826/ \nBefore attendi
+	ng a Cube of Truth\, it is mandatory that you learn our AV Outreach Protoc
+	ol by watching the full AV Masterclass\, which includes the latest "Holdin
+	g Non-Vegans Accountable” outreach workshop\, and reading our AV Outreach 
+	Flowchart document here:\n  http://activism101.com/  \nThe Cube of Truth i
+	s a street outreach campaign that employs direct action with the public\, 
+	in a structured manner. We use standard practice footage displayed on scre
+	ens to expose the truth about animal agriculture to the public and one on 
+	one conversations to educate them about animal exploitation.\nMasks\, sign
+	s\, and outreach cards are provided by the organisers. Please bring a full
+	y charged laptop or tablet if you have one\, with our standard Cube footag
+	e and recommended media player already downloaded and ready to play on a l
+	oop. It is important to prepare your device ahead of time. Make sure your 
+	device is muted\, has Wi-Fi disabled (to preserve battery life)\, has brig
+	htness maximized and password protection disabled.\nRecommended Media Play
+	er:  http://www.videolan.org/vlc \nCube Footage:  http://www.anonymousfort
+	hevoiceless.org/event-footage  \nWhen attending a Cube of Truth\, please d
+	o not bring bags or personal belongings unless you absolutely need to. If 
+	you do\, this means you will be wearing your bag for the duration of the e
+	vent\, so pack lightly. Any items brought to the Cube are your responsibil
+	ity. ORGANISERS WILL NOT BE STORING AND ARE NOT RESPONSIBLE FOR YOUR PERSO
+	NAL BELONGINGS IN ANY WAY. \nAlways wear weather appropriate PLAIN BLACK c
+	lothing without any graphics\, logos of other organisations\, and/or messa
+	ges not in line with our abolitionist stance\, or wear AV branded clothing
+	 without the line "animals · environment · health". This is essential to o
+	ur aesthetic. You can purchase official AV clothing on our website:  http:
+	//cubeoftruth.com/  Absolutely no animal derived clothing\, footwear and n
+	o fake fur (including faux fur trims) is to be worn at a Cube of Truth.\nR
+	espect AV chapter organisers and other volunteers at all times\, adhere to
+	 our structure and represent our core values while attending a Cube of Tru
+	th. The seriousness and professionalism of our actions are directly propor
+	tional to how the public perceives us.\nThank You for Standing With Us.\n 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-8-marz-
+	14-00-67c7b0b069d6f8bf3004caab
+GEO:49.0099574;8.399867
+LOCATION:Herrenstraße 17\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:681a5058c13cd37437e0038d
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67227ddcbd1a66952c63bee1/1543111179660233.jpg
+SUMMARY:Cube of Truth: Karlsruhe: 17. Mai: 14:00 
+DTSTAMP:20260624T080856Z
+DTSTART:20250517T120000Z
+DTEND:20250517T150000Z
+DESCRIPTION:Wenn ihr daran interessiert seid\, über zukünftige Ortsgruppen 
+	-  Aktivitäten auf dem Laufenden zu bleiben\, schließt euch bitte der folg
+	enden Freiwilligengruppe bei Facebook\nan:\n https://www.facebook.com/grou
+	ps/335071813625826/ \nBevor du an einem Cube of Truth teilnimmst\, solltes
+	t du dich unbedingt mit unserem AV-Protokoll vertraut machen\, indem du di
+	r die komplette AV-Masterclass ansiehst\, die auch den neuesten Workshop „
+	Holding Non-Vegans Accountable“ (Nicht-Veganer zur Rechenschaft ziehen) en
+	thält\, und unser AV-Flowchart-Dokument hier lesen:\n  http://activism101.
+	com/  \nDer Cube of Truth ist eine Straßenkampagne\, die direkte Aktionen 
+	mit der Öffentlichkeit auf strukturierte Art und Weise durchführt. Wir ver
+	wenden Standardpraktiken der Tierindustrie\, welche auf Bildschirmen gezei
+	gt werden\, um der Öffentlichkeit die Wahrheit über die Tierhaltung zu zei
+	gen\, und Einzelgespräche\, um sie über die Ausbeutung von Tieren aufzuklä
+	ren.\nMasken\, Schilder und Aktionskarten werden von den Organisatoren zur
+	 Verfügung gestellt. Bitte bring einen voll aufgeladenen Laptop oder ein T
+	ablet mit\, wenn du eines hast\, auf dem unser Standard-Cube-Filmmaterial 
+	und der empfohlene Mediaplayer bereits heruntergeladen und zum Abspielen i
+	n einer Schleife bereit sind. Es ist wichtig\, dass du dein Gerät vor der 
+	Veranstaltung vorbereitest. Vergewissere dich\, dass dein Gerät stummgesch
+	altet ist\, die Wi-Fi-Funktion deaktiviert ist (um den Akku zu schonen)\, 
+	die Helligkeit maximiert ist und der Passwortschutz deaktiviert ist.\nEmpf
+	ohlener Media Player:  http://www.videolan.org/vlc \nCube-Filmmaterial:  h
+	ttp://www.anonymousforthevoiceless.org/event-footage  \nWenn du an einem C
+	ube of Truth teilnimmst\, nimm bitte keine Taschen oder persönlichen Gegen
+	stände mit\, es sei denn\, du brauchst sie unbedingt. Wenn du dies tust\, 
+	bedeutet dies\, dass du deine Tasche für die Dauer der Veranstaltung trage
+	n wirst\, also pack nur wenig ein. Für alle Gegenstände\, die du zum Cube 
+	mitbringst\, bist du selbst verantwortlich. DIE ORGANISATOREN WERDEN DEINE
+	 PERSÖNLICHEN GEGENSTÄNDE NICHT AUFBEWAHREN UND SIND IN KEINER WEISE FÜR S
+	IE VERANTWORTLICH. \nTrage immer wettergerechte\, EINFACH SCHWARZE Kleidun
+	g ohne Grafiken\, Logos anderer Organisationen und/oder Botschaften\, die 
+	nicht mit unserer abolitionistischen Haltung übereinstimmen\, oder trage K
+	leidung der Marke AV ohne die Zeile „Animals - Environment - Health“. Dies
+	 ist wesentlich für unsere Ästhetik. Du kannst offizielle AV-Kleidung auf 
+	unserer Website kaufen:  http://cubeoftruth.com/  Auf einem Cube of Truth 
+	dürfen weder Kleidung noch Schuhe aus tier-basierten Matierialien noch Kun
+	stpelz (einschließlich Kunstpelzbesatz) getragen werden.\nRespektiere die 
+	Organisatoren des AV-Chapters und andere Freiwillige zu jeder Zeit\, halte
+	 dich an unsere Struktur und vertritt unsere Grundwerte\, wenn du an einem
+	 Cube of Truth teilnimmst. Die Ernsthaftigkeit und Professionalität unsere
+	s Handelns ist direkt proportional dazu\, wie die Öffentlichkeit uns wahrn
+	immt.\nDanke\, dass du uns beistehst\nIf you are interested in staying up 
+	to date on future chapter activity\, please join the following volunteer g
+	roup: \n https://www.facebook.com/groups/335071813625826/ \nBefore attendi
+	ng a Cube of Truth\, it is mandatory that you learn our AV Outreach Protoc
+	ol by watching the full AV Masterclass\, which includes the latest "Holdin
+	g Non-Vegans Accountable” outreach workshop\, and reading our AV Outreach 
+	Flowchart document here:\n  http://activism101.com/  \nThe Cube of Truth i
+	s a street outreach campaign that employs direct action with the public\, 
+	in a structured manner. We use standard practice footage displayed on scre
+	ens to expose the truth about animal agriculture to the public and one on 
+	one conversations to educate them about animal exploitation.\nMasks\, sign
+	s\, and outreach cards are provided by the organisers. Please bring a full
+	y charged laptop or tablet if you have one\, with our standard Cube footag
+	e and recommended media player already downloaded and ready to play on a l
+	oop. It is important to prepare your device ahead of time. Make sure your 
+	device is muted\, has Wi-Fi disabled (to preserve battery life)\, has brig
+	htness maximized and password protection disabled.\nRecommended Media Play
+	er:  http://www.videolan.org/vlc \nCube Footage:  http://www.anonymousfort
+	hevoiceless.org/event-footage  \nWhen attending a Cube of Truth\, please d
+	o not bring bags or personal belongings unless you absolutely need to. If 
+	you do\, this means you will be wearing your bag for the duration of the e
+	vent\, so pack lightly. Any items brought to the Cube are your responsibil
+	ity. ORGANISERS WILL NOT BE STORING AND ARE NOT RESPONSIBLE FOR YOUR PERSO
+	NAL BELONGINGS IN ANY WAY. \nAlways wear weather appropriate PLAIN BLACK c
+	lothing without any graphics\, logos of other organisations\, and/or messa
+	ges not in line with our abolitionist stance\, or wear AV branded clothing
+	 without the line "animals · environment · health". This is essential to o
+	ur aesthetic. You can purchase official AV clothing on our website:  http:
+	//cubeoftruth.com/  Absolutely no animal derived clothing\, footwear and n
+	o fake fur (including faux fur trims) is to be worn at a Cube of Truth.\nR
+	espect AV chapter organisers and other volunteers at all times\, adhere to
+	 our structure and represent our core values while attending a Cube of Tru
+	th. The seriousness and professionalism of our actions are directly propor
+	tional to how the public perceives us.\nThank You for Standing With Us.\n 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-17-mai-
+	14-00-681a5058c13cd37437e0038d
+GEO:49.0099574;8.399867
+LOCATION:Herrenstraße 17\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6926c7d22609203d1f009676
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: November 29th
+DTSTAMP:20260624T080856Z
+DTSTART:20251129T140000Z
+DTEND:20251129T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-novembe
+	r-29th-6926c7d22609203d1f009676
+GEO:49.0100889;8.399607699999999
+LOCATION:Herrenstraße 18\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6977f69bfba735b58bac8f7a
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: January 31st
+DTSTAMP:20260624T080856Z
+DTSTART:20260131T140000Z
+DTEND:20260131T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-january
+	-31st-6977f69bfba735b58bac8f7a
+GEO:49.0100889;8.399607699999999
+LOCATION:Herrenstraße 18\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6926c7d92609203d1f0096a6
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: December 20th
+DTSTAMP:20260624T080856Z
+DTSTART:20251220T140000Z
+DTEND:20251220T170000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-decembe
+	r-20th-6926c7d92609203d1f0096a6
+GEO:49.0100889;8.399607699999999
+LOCATION:Herrenstraße 18\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67a4dc9da6d386a936d6184e
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/920049420223336.jpg
+SUMMARY:Cube of Truth: Karlsruhe: March 29th
+DTSTAMP:20260624T080856Z
+DTSTART:20250329T130000Z
+DTEND:20250329T160000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-march-2
+	9th-67a4dc9da6d386a936d6184e
+GEO:49.0095754;8.3994401
+LOCATION:Kaiserstraße 179A\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6746fbfa09e7ef60972741ef
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/1730206294466659.jpg
+SUMMARY:Cube of Truth: Karlsruhe: October 26th
+DTSTAMP:20260624T080856Z
+DTSTART:20241026T120000Z
+DTEND:20241026T150000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-october
+	-26th-6746fbfa09e7ef60972741ef
+GEO:49.0095754;8.3994401
+LOCATION:Kaiserstraße 179A\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:681c694ac13cd37437e090f1
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-03t13-30-00000z-festplatz-im-burggartengelande-63456-hanau.jpg
+SUMMARY:Karlsruhe: Fleisch ist Mord I Streetteam-Demoam I 13 - 16 Uhr
+DTSTAMP:20260624T080856Z
+DTSTART:20250510T110000Z
+DTEND:20250510T120000Z
+DESCRIPTION:Fleisch auf dem Teller bedeutet immer den Tod eines fühlenden L
+	ebewesens. Allein inDeutschland müssenjährlichknapp 800 Millionen Landlebe
+	wesen für die „Produktion“ vonFleisch völlig unnötig leiden und sterben.\n
+	Dasfreiwillige PETA StreetteamKarlsruhemacht daher amSamstag\, den10.Mai\,
+	ab 13Uhrin der Innenstadt auf das Leid der Tiere in der landwirtschaftlich
+	en Tierhaltungaufmerksam.\nWährend der provokanten Aktion zeigt ein:emit K
+	unstblut beschmierte und inlebensgroßer Fleischschale unter Zellophan verp
+	ackte Aktivist:in\, wie im Supermarktangebotenes Menschenfleisch aussehen 
+	könnte. Weitere Aktive fordern mit Schildern undFlyern zum Umstieg auf ein
+	e pflanzliche Ernährungsweise auf.\nHintergrundinfos zum Demothema findest
+	 du unter:https://www.peta.de/themen/fleisch/\n\n📌Link zum Demoort:https:/
+	/maps.app.goo.gl/htvDuKKyZyrnBDco6\n\nSei dabei und hilf den Tieren!\nGeme
+	insam für Tierrechte\n\nDas Streetteam auf Social Media:https://www.instag
+	ram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-fleisch-ist-mord-i-st
+	reetteam-demoam-i-13-16-uhr-681c694ac13cd37437e090f1
+GEO:49.00980089999999;8.3994583
+LOCATION:Kaiserstraße Ecke Herrenstraße\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6725527dd488deb291a367e7
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/673aa032b8d1d2c6c98c9d64/1730206294466659.jpg
+SUMMARY:Cube of Truth: Karlsruhe: November 30th
+DTSTAMP:20260624T080856Z
+DTSTART:20241130T130000Z
+DTEND:20241130T160000Z
+DESCRIPTION:Falls du Interesse hast teilzunehmen\, tritt der folgenden Grup
+	pe bei:\n https://www.facebook.com/groups/631704867386241/ \nDer “Cube of 
+	Truth” ist eine friedliche\, stationäre Demonstration\, ähnlich einer küns
+	tlerischen Aufführung. Diese Demonstration funktioniert nach einer struktu
+	rierten Art und Weise\, die Neugier und Interesse der Öffentlichkeit weckt
+	\; wir versuchen Zuschauer durch die Kombination von Videos der lokalen Ti
+	erindustrie und auf moralischen Grundsätzen basierenden Gesprächen zu eine
+	r veganen Lebensweise zu führen.\nMasken\, Schilder\, Bildschirme und Gesp
+	rächsmaterial werden zur Verfügung gestellt. Schwarze\, dem Wetter entspre
+	chende\, Oberbekleidung ist erforderlich. \n"Activists for the Victims" ve
+	rtreten einen abolitionistischen Standpunkt bezüglich der Ausbeutung von T
+	ieren und setzen sich für eine klare vegane Botschaft ein. Wir kämpfen geg
+	en Speziesismus (eine Form der Diskriminierung)\, weshalb auch andere Arte
+	n von Diskriminierung\,wie beispielsweise (aber nicht beschränkt auf) Sexi
+	smus\, Homophobie\, Rassismus und deren Kombinationen (intersektionelle Di
+	skriminierung) nicht mit unseren Werten einhergehen und wir dulden keine D
+	iskriminierung\, Mobbing oder Belästigung jeglicher Art in unserer Gruppe.
+	 Wir erwarten\, dass jede*r\, die/der uns repräsentiert\, Vielfalt sowie d
+	ie oben genannten Werte vertritt und respektiert. Jegliche Person oder Gru
+	ppe\, die nicht damit einverstanden ist\, diese Werte aufrechtzuerhalten\,
+	 ist nicht willkommen uns als Organisator*In oder Freiwillige*r zu repräse
+	ntieren. "Activists for the Victims" sind unabhängig von jeder politischen
+	 Zugehörigkeit oder Religion und wünschen keine Bewerbung von beidem bei u
+	nseren Veranstaltungen.\n_________________________________________________
+	____________________\nIf you are interested in volunteering\, join the fol
+	lowing group:\n https://www.facebook.com/groups/631704867386241/ \nThe Cub
+	e of Truth is a peaceful static demonstration akin to an art performance. 
+	This demonstration operates in a structured manner that triggers curiosity
+	 and interest from the public\; we attempt to lead bystanders to a vegan c
+	onclusion through a combination of local standard-practice animal exploita
+	tion footage and conversations with a value-based sales approach.\nMasks\,
+	 signs\, screens and outreach literature are provided. Black upper clothin
+	g appropriate for the weather is essential.\n"Activists for the Victims" h
+	old an abolitionist stance against animal exploitation and promote a clear
+	 vegan message. As we fight against speciesism (a form of discrimination)\
+	, other forms of discrimination such as (but not limited to) sexism\, homo
+	phobia\, racism or their combinations (intersectional discrimination) are 
+	not in alignment with our values and we do not tolerate discrimination\, b
+	ullying or harassment of any kind within our group. We ask anyone represen
+	ting us to promote and respect diversity and the above-mentioned values. A
+	ny person or group that does not agree to uphold the values outlined above
+	 is not welcome to represent us as an organiser or a volunteer. "Activists
+	 for the Victims" are independent of any political affiliation or religion
+	 and we wish no promotion of either at our events. 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-novembe
+	r-30th-6725527dd488deb291a367e7
+GEO:49.009647;8.3994168
+LOCATION:Kaiserstraße 179A\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68c0c24c2d6429f7d2bb2a27
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/68c0a53e2d6429f7d2bb219e/736331375847158.jpg
+SUMMARY:#GerechtigkeitFürSchweine – Kundgebung
+DTSTAMP:20260624T080856Z
+DTSTART:20250926T090000Z
+DTEND:20250926T100000Z
+DESCRIPTION:Seit 2019 liegt beim Bundesverfassungsgericht ein Normenkontrol
+	lantrag des Bundeslands Berlin zur Schweinehaltung in Deutschland vor. Die
+	ser Antrag an das höchste deutsche Gericht bittet um die Prüfung von gelte
+	nden Vorschriften in der Schweinehaltung. Denn aus Sicht des Landes Berlin
+	 sind viele dieser Vorschriften nicht mit dem Tierschutzgesetz und dem Gru
+	ndgesetz vereinbar. \nSeit 2019 sind inzwischen 6 Jahre vergangen und das 
+	öffentliche Interesse an dem Antrag ist weiterhin groß. Deshalb gehen wir 
+	am 26. September gemeinsam mit vielen weiteren Organisationen in Karlsruhe
+	 auf die Straße. \nMit der Kundgebung vor dem Bundesverfassungsgericht wol
+	len wir auf das anhaltende Leid der Schweine aufmerksam machen und zeigen\
+	, dass vielen Menschen das Schicksal dieser Tiere am Herzen liegt.  \nSeid
+	 Teil dieser Aktion. Kommt am 26. September nach Karlsruhe und setzt gemei
+	nsam mit uns ein Zeichen für !  
+URL:https://animalrightscalendar.com/events/gerechtigkeitfurschweine-kundge
+	bung-68c0c24c2d6429f7d2bb2a27
+GEO:49.01276910000001;8.401631499999999
+LOCATION:49.012422\, 8.401610
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68ae0b5c2d6429f7d2b54f16
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-09-26t09-00-00000z-schlobezirk-3-76131-karlsruhe.jpg
+SUMMARY:Karlsruhe: Gerechtigkeit für Schweine I unterstützt von PETA
+DTSTAMP:20260624T080856Z
+DTSTART:20250926T090000Z
+DTEND:20250926T120000Z
+DESCRIPTION:"Am 26. September gehen wir gemeinsam mit vielen weiteren Organ
+	isationen auf die Straße. Vor dem Bundesverfassungsgericht setzen wir ein 
+	Zeichen für Gerechtigkeit für Schweine.\n\nSeit 2019 prüft das Bundesverfa
+	ssungsgericht\, ob die vorgeschriebenen Haltungsbedingungen gegen das Tier
+	schutzgesetz und das Grundgesetz verstoßen. Doch eines steht längst fest: 
+	Die konventionelle Schweinehaltung verursacht Tag für Tag enormes Leid.\n\
+	nDie konventionelle Schweinehaltung bedeutet konkret:\n-Harte Betonspalten
+	böden ohne weiche Liegefläche\n-Zu wenig Platz und beißende Ammoniakdämpfe
+	\, die Atemwege und Augen angreifen\n-Fixierung von Mutterschweinen in Kas
+	tenständen\n\nAuf dieses Leid wollen wir gemeinsam mit euch aufmerksam mac
+	hen. Kommt nach Karlsruhe und seid Teil der Aktion!"\n\nEine artgerechte S
+	chweinehaltung gibt es in der industriellen „Nutztierhaltung“ nicht\, denn
+	 Wirtschaftlichkeit und konsequenter Tierschutz schließen sich immer aus. 
+	Die landwirtschaftliche Tierhaltung beruht auf einemhttps://www.peta.de/th
+	emen/speziesismus-definition/. Deshalb ist es ethisch niemals korrekt\, Ti
+	ere zu Profitzwecken zu nutzen oder zu töten.\n\nHintergrundinfos findest 
+	du unter:https://www.peta.de/themen/schweinehaltung/\n📌Link zum Demoort:ht
+	tps://maps.app.goo.gl/jzAkw2BEUYzAAbvS7\nMehr Infos auf Instagram:https://
+	www.instagram.com/deutsche_tier_lobby/?hl=de\nSei dabei und hilf den Tiere
+	n!\nGemeinsam für Tierrechte\n
+URL:https://animalrightscalendar.com/events/karlsruhe-gerechtigkeit-fur-sch
+	weine-i-unterstutzt-von-peta-68ae0b5c2d6429f7d2b54f16
+GEO:49.0129951;8.401706599999999
+LOCATION:Schloßbezirk 3\, 76131 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6850011baa831178a5ea3b12
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Kuhmilch ist für Kuhkinder I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20250628T110000Z
+DTEND:20250628T140000Z
+DESCRIPTION:Es gibt außer dem Menschen kein Tier auf der Erde\, das die Mut
+	termilch einer anderen Spezies trinkt.\n\nDas freiwillige PETA Streetteam 
+	macht darauf aufmerksam\, dass der Konsum von Kuhmilch in keiner Weise nat
+	ürlicher ist als der von Hundemilch. Auf einem Tisch stehen „Hundemilch“-K
+	artons. Aktive verteilen Hundemilchproben – eigentlich natürlich Pflanzenm
+	ilchproben – an Passant:innen und führen Gespräche. Ein Hunde-Maskottchen 
+	hilft dabei\, die Aufmerksamkeit auf die Verkostung zu lenken. Aktive halt
+	en Schilder\, die Hundemilch anpreisen.\n\nHintergrundinfos findest du unt
+	er:https://www.peta.de/themen/milch/\n\n📌Link zum Demoort:https://maps.app
+	.goo.gl/kTsmPy5rftHqePwW8\n\nSei dabei und hilf den Tieren!\nGemeinsam für
+	 Tierrechte\n\n\nPS: Bei unseren Demos wird nur die vegane Lebensweise ver
+	mittelt und das Leitbild von PETA vertreten.https://www.gemeinsam-fuer-tie
+	rrechte.de/aktiv-werden/menschenrechte-tierrechte/jeglicher Art sind gener
+	ell nicht geduldet. Bitte lasse deine tierische Begleitung zu Hause. Weite
+	re Infos unter:https://www.gemeinsam-fuer-tierrechte.de/streetteams/faq/\n
+	\nDas Streetteam auf Social Media:https://www.instagram.com/peta_streettea
+	m_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-kuhmilch-ist-fur-kuhk
+	inder-i-streetteam-demo-13-16-uhr-6850011baa831178a5ea3b12
+GEO:49.0098946;8.3973575
+LOCATION:Ecke Kaiserstr./Waldstr. - 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:690251984e8c7648d70c71d3
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Gänse sind kein Festtagsessen I Streetteam-Demo I 13 - 1
+	6 Uhr
+DTSTAMP:20260624T080856Z
+DTSTART:20251122T120000Z
+DTEND:20251122T130000Z
+DESCRIPTION:Während die meisten Menschen über die Festtage in geselliger Ru
+	nde beisammensitzen\, liegen auf ihren Tellern oft tote Tiere\, die ihr ge
+	samtes Leben ausgebeutet und anschließend getötet wurden\, nur um als Ente
+	n- und Gänsebraten zu enden. Deshalb macht das Streetteam mit einem Gans-K
+	ostüm auf die Diskriminierungsform Speziesismus aufmerksam.\n\n\n\nDas Str
+	eetteam auf Social Media:\nhttps://www.instagram.com/peta_streetteam_karls
+	ruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ganse-sind-kein-festt
+	agsessen-i-streetteam-demo-i-13-16-uhr-690251984e8c7648d70c71d3
+GEO:49.0098946;8.3973575
+LOCATION:Kreuzung Waldstraße & Kaiserstraße\, 76133 Karlsruhe-Innenstadt-We
+	st
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68d5181e2d6429f7d2c4a3a7
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Tierleid ist untragbar! I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20251011T110000Z
+DTEND:20251011T120000Z
+DESCRIPTION:Hallo\,\nim Namen der Mode werden jährlich mehrere Millionen vo
+	n Tieren ausgebeutet und getötet. Um an ihre Federn zu kommen\, wird Enten
+	 und Gänsen die Kehle aufgeschlitzt oder sie werden bei lebendigem Leib ge
+	rupft. Schafe in der Wollindustrie werden meist ohne Betäubung kastriert u
+	nd im Akkordtempo geschoren\, sodass oft Hautteile oder ganze Brustwarzen 
+	mit abgeschnitten werden. Rinder in der Lederindustrie sind dazu gezwungen
+	\, grausame Standardprozeduren über sich ergehen zu lassen\, etwa betäubun
+	gslose Kastrationen\, Brandmarkungen im Gesicht sowie das Kupieren der Sch
+	wänze und Hörner.\n\nDeshalb klärt das Streetteam mit Morphsuits\, Tiermas
+	ken\, Bannern und Plakaten über die Tierquälerei in der Bekleidungsindustr
+	ie auf und informiert über tierleidfreie Alternativen.\nHintergrundinforma
+	tionen findest du unter:https://www.peta.de/themen/bekleidung/\n\n📌 Link z
+	um Demoort:https://maps.app.goo.gl/UBvqeYPLDvVgwXpM6\nSei dabei und hilf d
+	en Tieren!\nGemeinsam für Tierrechte\n\n\n\nDas Streetteam auf Social Medi
+	a:\nhttps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-tierleid-ist-untragba
+	r-i-streetteam-demo-13-16-uhr-68d5181e2d6429f7d2c4a3a7
+GEO:49.0098946;8.3973575
+LOCATION:Kaiserstraße\, Ecke Waldstraße\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69c2889a3772a293db8a2e1d
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Katzenfleischverkäufer:in - Speziesismus beenden!| Stree
+	tteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260418T110000Z
+DTEND:20260418T120000Z
+DESCRIPTION:Viele Menschen sehen hinter Fleisch und anderen Produkten tieri
+	scher Herkunft nicht das getötete Lebewesen. Doch allein in Deutschland we
+	rden jährlich 800 Millionen Landlebewesen wegen ihres Fleisches gequält un
+	d getötet\, die Einteilung erfolgt hierbei willkürlich in „Haus-„ und „Nut
+	ztiere“.\n\n\nDas freiwillige PETA Streetteam Karlsruhe möchte daher auf d
+	ieses Problem aufmerksam machen und aufklären. Die Aktiven servieren „Katz
+	enfilets“ auf Eisschalen und wollen mit dem Verkauf der Katzenattrappen da
+	rauf aufmerksam\, dass es keinen Unterschied macht\, ob Tiere Flossen oder
+	 Beine\, Schuppen oder Fell haben – sie sind alle fühlende Lebewesen.\n\nH
+	intergrundinfos findest du unter:https://www.peta.de/themen/fischerei/\n\n
+	\n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-katzenfleischverkaufe
+	r-in-speziesismus-beenden-streetteam-demo-13-16-uhr-69c2889a3772a293db8a2e
+	1d
+GEO:49.0098946;8.3973575
+LOCATION:Kreuzung Kaiserstraße - Waldstraße\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69a5a9a63772a293db926445
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Fischerei stoppen! I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260314T120000Z
+DTEND:20260314T130000Z
+DESCRIPTION:Der weltweite Fischkonsum steigt kontinuierlich an und lag im J
+	ahr 2023 bei etwa 20\,6 Kilogramm pro Person. Um diese unfassbar hohe Nach
+	frage zu erfüllen\, werden jährlich Billionenhttps://www.peta.de/themen/fi
+	sche/gefangen und sterben einen qualvollen Tod. Überfischung\, Geisternetz
+	e und Umweltzerstörung sind nur einige der Probleme der Fischerei.\n\nAus 
+	diesem Anlass veranstaltet das freiwillige PETA Streetteam\, passend zum "
+	Welttag für das Ende der Fischerei"\, eine Mahnwache\, um über dieses Them
+	a zu informieren. Mit Fischkostümen\, Fischernetzen\, Flyern\, einem Infos
+	tand und einer Rede werden Aktive auf die Fischerei aufmerksam machen und 
+	aufklären.\n\nHintergrundinfos findest du unter:https://www.peta.de/themen
+	/fischerei/\n\n📌Link zum Demoort:https://maps.app.goo.gl/vCSE4weZ325TtheP7
+	\n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-fischerei-stoppen-i-s
+	treetteam-demo-13-16-uhr-69a5a9a63772a293db926445
+GEO:49.0098946;8.3973575
+LOCATION:Kaiserstraße Ecke Waldstr\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69735947fba735b58b9b3264
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Hundemilch-Verkostung I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260221T120000Z
+DTEND:20260221T130000Z
+DESCRIPTION:Es gibt außer dem Menschen kein Tier auf der Erde\, das die Mut
+	termilch einer anderen Spezies trinkt.\nDas freiwillige PETA Streetteam ma
+	cht darauf aufmerksam\, dass der Konsum von Kuhmilch in keiner Weise natür
+	licher ist als der von Hundemilch. Aktive verteilen Hundemilchproben – eig
+	entlich natürlich Pflanzenmilchproben – an Passant:innen und führen Gesprä
+	che. Andere Aktive halten Schilder\, die Hundemilch anpreisen. An einem In
+	fostand werden Sticker und Flyer verteilt.\n\nHintergrundinfos findest du 
+	unter:https://www.peta.de/themen/milch/\n\n📌Link zum Demoort:https://maps.
+	app.goo.gl/YhoUMvDNh83sxXSQ9\n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-hundemilch-verkostung
+	-i-streetteam-demo-13-16-uhr-69735947fba735b58b9b3264
+GEO:49.0098946;8.3973575
+LOCATION:Kreuzung Waldstraße & Kaiserstraße\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68b711102d6429f7d2b83f1e
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Schilderdemo/Silent Line I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20250913T110000Z
+DTEND:20250913T120000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam Karlsruhe eine Sc
+	hilderdemo/Silent Line an der Kreuzung Ecke Waldstraße & Kaiserstraße in K
+	arlsruhe.\n\nHintergrundinfos:https://www.peta.de/veganleben/tierrechte/\n
+	\n\n📌Link zum Demoort:https://maps.app.goo.gl/5AU6GcztqkWNfTBZ6\n\n\nSei d
+	abei und hilf den Tieren!\nGemeinsam für Tierrechte\n\n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-schilderdemo-silent-l
+	ine-i-streetteam-demo-13-16-uhr-68b711102d6429f7d2b83f1e
+GEO:49.0098946;8.3973575
+LOCATION:Ecke Waldstraße & Kaiserstraße\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6878d9fd60547feca6e9dc55
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Mitgefühl für Tauben I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20250726T110000Z
+DTEND:20250726T120000Z
+DESCRIPTION:Tauben werden in der Öffentlichkeit häufig als „Problem“ wahrge
+	nommen. Doch es sind die Tiere selbst\, die großes Leid erfahren – und sch
+	uld daran ist einzig und allein der Mensch.\n\n\nDarauf macht das freiwill
+	ige PETA Streetteam aufmerksam.In einem Taubenkostüm und mit Schildern\, P
+	ostern und Flyern klären Aktive über Tauben und die Notwendigkeit von Taub
+	enhäusern auf.\n\n\nHintergrundinfos zum Demothema findest du unter:https:
+	//www.peta.de/themen/stadttauben/\n\n\n📌Link zum Demoort:https://maps.app.
+	goo.gl/5AU6GcztqkWNfTBZ6\n\n\nSei dabei und hilf den Tieren!\nGemeinsam fü
+	r Tierrechte\n\n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-mitgefuhl-fur-tauben-
+	i-streetteam-demo-13-16-uhr-6878d9fd60547feca6e9dc55
+GEO:49.0098946;8.3973575
+LOCATION:Ecke Waldstraße & Kaiserstraße\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:677a9740b168eab79f0f8efa
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67227ddcbd1a66952c63bee1/1543111179660233.jpg
+SUMMARY:Cube of Truth: Karlsruhe: 11. Januar: 14:00
+DTSTAMP:20260624T080856Z
+DTSTART:20250111T130000Z
+DTEND:20250111T160000Z
+DESCRIPTION:Wenn ihr daran interessiert seid\, über zukünftige Ortsgruppen 
+	-  Aktivitäten auf dem Laufenden zu bleiben\, schließt euch bitte der folg
+	enden Freiwilligengruppe bei Facebook\nan:\n https://www.facebook.com/grou
+	ps/335071813625826/ \nDer Cube of Truth ist eine Straßen Kampagne\, die di
+	rekte Aktionen in der Öffentlichkeit in strukturierter Weise durchführt. W
+	ir verwenden Filmmaterial von Standardpraktiken\, das auf Bildschirmen gez
+	eigt wird\, um der Öffentlichkeit die Wahrheit über die Tierhaltung zu ent
+	hüllen\, und führen Einzelgespräche\, um sie über die Ausbeutung von Tiere
+	n aufzuklären. Bevor ihr an einer Cube of Truth Demonstration teilnehmt\, 
+	ist es zwingend erforderlich\, dass ihr euch mit unserem AV-Outreach-Proto
+	koll vertraut macht\, indem ihr euch den vollständigen Workshop "Nicht- ve
+	gane Menschen zur Verantwortung ziehen" anseht und unser AV-Outreach-Proto
+	koll Dokument lest:\nHolding Non-Vegans Accountable Workshop:\n https://bi
+	t.ly/holdingnonvegansaccountable3 \nAV Outreach Protocol:\n https://bit.ly
+	/AVOutreachProtocol  \nMasken\, Schilder und Karten werden von den Organis
+	ern zur Verfügung gestellt. Bitte bringt einen voll aufgeladenen Laptop od
+	er ein Tablet mit\, falls ihr habt\, mit unserem\, von euch bereits herunt
+	ergeladenen\, Standard-Cube-Material und dem empfohlenen Media-Player. All
+	es sollte bereit sein\, in Endlosschleife abgespielt zu werden. Es ist wic
+	htig\, dass ihr eure Geräte rechtzeitig vorbereitet. Stellt bitte sicher\,
+	 dass euer Gerät stummgeschaltet ist\, dass Wi-Fi deaktiviert ist (um die 
+	Akkulaufzeit zu erhalten)\, dass die Helligkeit maximiert und der Passwort
+	schutz deaktiviert ist.\nEmpfohlener  Media Player:\n http://www.videolan.
+	org/vlc/ \nCube Bildmaterial:\n https://www.anonymousforthevoiceless.org/e
+	vent-footage  \n\n\nWenn ihr an einem Cube of Truth teilnehmt\, bringt bit
+	te keine Taschen oder persönliche Gegenstände mit\, es sei denn\, dies ist
+	 unbedingt notwendig. Falls doch\, bedeutet dies\, dass ihr eure Tasche fü
+	r die Dauer der Veranstaltung tragen werdet\, packt also bitte leicht. All
+	e zum Cube mitgebrachten Gegenstände unterliegen eurer eigenen Verantwortu
+	ng. DIE ORGANISER WERDEN EURE PERSÖNLICHEN GEGENSTÄNDE NICHT AUFBEWAHREN U
+	ND SIND IN KEINER WEISE FÜR SIE VERANTWORTLICH.\nTragt bitte stets wettera
+	ngepasste Kleidung mit AV Label oder KOMPLETT SCHWARZ ohne Aufschriften od
+	er Logos anderer Organisationen und/oder veganer Botschaften. Dies ist für
+	 unsere Ästhetik unerlässlich. Ihr könnt offizielle AV-Kleidung auf unsere
+	r Website kaufen:  http://cubeoftruth.com/  An einem Cube of Truth darf au
+	f keinen Fall Kleidung aus Tiermaterial und kein Kunstpelz (einschließlich
+	 Kunstpelzbesatz) getragen werden.\nRespektiert bitte jederzeit die Organi
+	ser der AV-Ortsgruppen und andere Freiwillige\, haltet euch an unsere Stru
+	ktur und vertretet unsere Grundwerte\, während ihr an einem Cube of Truth 
+	teilnehmt. Die Ernsthaftigkeit und Professionalität unseres Handelns stehe
+	n in direktem Verhältnis dazu\, wie die Öffentlichkeit uns wahrnimmt.\n\n\
+	nDanke\, dass ihr mit uns  aufsteht.\n____________________________________
+	____________________________________\nThe Cube of Truth is a street outrea
+	ch campaign that employs direct action with the public\, in a structured m
+	anner. We use standard practice footage displayed on screens to expose the
+	 truth about animal agriculture to the public and one on one conversations
+	 to educate them about animal exploitation. Before attending a Cube of Tru
+	th it is mandatory that you learn our AV Outreach Protocol by watching the
+	 full “Holding Non-Vegans Accountable” outreach workshop and reading our A
+	V Outreach Protocol document:\nHolding Non-Vegans Accountable Workshop:\n 
+	https://bit.ly/holdingnonvegansaccountable3 \nAV Outreach Protocol:\n http
+	s://bit.ly/AVOutreachProtocol  \nMasks\, signs\, and outreach cards are pr
+	ovided by the organisers. Please bring a fully charged laptop or tablet if
+	 you have one\, with our standard Cube footage and recommended media playe
+	r already downloaded and ready to play on a loop. It is important to prepa
+	re your device ahead of time. Make sure your device is muted\, has Wi-Fi d
+	isabled (to preserve battery life)\, has brightness maximized and password
+	 protection disabled.\nRecommended Media Player:\n http://www.videolan.org
+	/vlc/ \nCube Footage:\n https://www.anonymousforthevoiceless.org/event-foo
+	tage  \nWhen attending a Cube of Truth\, please do not bring bags or perso
+	nal belongings unless you absolutely need to. If you do\, this means you w
+	ill be wearing your bag for the duration of the event\, so pack lightly. A
+	ny items brought to the Cube are your responsibility. ORGANISERS WILL NOT 
+	BE STORING AND ARE NOT RESPONSIBLE FOR YOUR PERSONAL BELONGINGS IN ANY WAY
+	. \nAlways wear weather appropriate\, PLAIN BLACK or AV branded clothing w
+	ithout any graphics\, including logos of other organisations and/or vegan 
+	messages. This is essential to our aesthetic. You can purchase official AV
+	 clothing on our website:  http://cubeoftruth.com/  Absolutely no animal d
+	erived clothing\, footwear and no fake fur (including faux fur trims) is t
+	o be worn at a Cube of Truth.\nRespect AV chapter organisers and other vol
+	unteers at all times\, adhere to our structure and represent our core valu
+	es while attending a Cube of Truth. The seriousness and professionalism of
+	 our actions are directly proportional to how the public perceives us.\nTh
+	ank You for Standing With Us.\n___________________________________________
+	___________________________________\n\n\n\n\n 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-11-janu
+	ar-14-00-677a9740b168eab79f0f8efa
+GEO:49.0081621;8.3946124
+LOCATION:49.008290\, 8.394560
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6729a9f58583a1e4c9c927ee
+ATTACH;FMTTYPE=image/jpeg:https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-6/465408197_957702893061410_3370393524244894480_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=75d36f&_nc_eui2=AeHWAiAjDTG1HaA6-ELVjBeeGvZugCWe5KQa9m6AJZ7kpIZKSqRDW5WIVZQLj0gfhqWrDV5-mr1_e43dETz8fLze&_nc_ohc=YOYO5G2vdl8Q7kNvgGhaQY6&_nc_zt=23&_nc_ht=scontent-waw2-1.xx&_nc_gid=AFac91YkHAdTFXWf_c6jpf8&oh=00_AYBwLlSBDfr3WqV6E3FteUu4y5CQHvVtJ92MOTS5etIQyg&oe=6731093B
+SUMMARY:Cube of Truth: Karlsruhe: 9. November: 15:00
+DTSTAMP:20260624T080856Z
+DTSTART:20241109T140000Z
+DTEND:20241109T170000Z
+DESCRIPTION:Wenn ihr daran interessiert seid\, über zukünftige Ortsgruppen 
+	-  Aktivitäten auf dem Laufenden zu bleiben\, schließt euch bitte der folg
+	enden Freiwilligengruppe bei Facebookan:\nhttps://www.facebook.com/groups/
+	335071813625826/?__cft__[0]=AZWJXe8QNE4SrDk6W2fLq7qhJUh-pu3rUpv52dGtnm-c1S
+	ACv3dc1b1XZLE2k4NVPdJZoD03xT03aTSZfK5gQKissv-7Fdk7PFsW-18rgQXpxHHLG5xl6bO1
+	9-QzxGxdi6ATyTIL_SZqp4jxacB2eMb7&__tn__=q\nDer Cube of Truth ist eine Stra
+	ßen Kampagne\, die direkte Aktionen in der Öffentlichkeit in strukturierte
+	r Weise durchführt. Wir verwenden Filmmaterial von Standardpraktiken\, das
+	 auf Bildschirmen gezeigt wird\, um der Öffentlichkeit die Wahrheit über d
+	ie Tierhaltung zu enthüllen\, und führen Einzelgespräche\, um sie über die
+	 Ausbeutung von Tieren aufzuklären. Bevor ihr an einer Cube of Truth Demon
+	stration teilnehmt\, ist es zwingend erforderlich\, dass ihr euch mit unse
+	rem AV-Outreach-Protokoll vertraut macht\, indem ihr euch den vollständige
+	n Workshop "Nicht- vegane Menschen zur Verantwortung ziehen" anseht und un
+	ser AV-Outreach-Protokoll Dokument lest:\nHolding Non-Vegans Accountable W
+	orkshop:https://bit.ly/holdingnonvegansaccountable3\nAV Outreach Protocol:
+	https://bit.ly/AVOutreachProtocol \nMasken\, Schilder und Karten werden vo
+	n den Organisern zur Verfügung gestellt. Bitte bringt einen voll aufgelade
+	nen Laptop oder ein Tablet mit\, falls ihr habt\, mit unserem\, von euch b
+	ereits heruntergeladenen\, Standard-Cube-Material und dem empfohlenen Medi
+	a-Player. Alles sollte bereit sein\, in Endlosschleife abgespielt zu werde
+	n. Es ist wichtig\, dass ihr eure Geräte rechtzeitig vorbereitet. Stellt b
+	itte sicher\, dass euer Gerät stummgeschaltet ist\, dass Wi-Fi deaktiviert
+	 ist (um die Akkulaufzeit zu erhalten)\, dass die Helligkeit maximiert und
+	 der Passwortschutz deaktiviert ist.\nEmpfohlener  Media Player:http://www
+	.videolan.org/vlc/\nCube Bildmaterial:https://www.anonymousforthevoiceless
+	.org/event-footage \n\nWenn ihr an einem Cube of Truth teilnehmt\, bringt 
+	bitte keine Taschen oder persönliche Gegenstände mit\, es sei denn\, dies 
+	ist unbedingt notwendig. Falls doch\, bedeutet dies\, dass ihr eure Tasche
+	 für die Dauer der Veranstaltung tragen werdet\, packt also bitte leicht. 
+	Alle zum Cube mitgebrachten Gegenstände unterliegen eurer eigenen Verantwo
+	rtung. DIE ORGANISER WERDEN EURE PERSÖNLICHEN GEGENSTÄNDE NICHT AUFBEWAHRE
+	N UND SIND IN KEINER WEISE FÜR SIE VERANTWORTLICH.\nTragt bitte stets wett
+	erangepasste Kleidung mit AV Label oder KOMPLETT SCHWARZ ohne Aufschriften
+	 oder Logos anderer Organisationen und/oder veganer Botschaften. Dies ist 
+	für unsere Ästhetik unerlässlich. Ihr könnt offizielle AV-Kleidung auf uns
+	erer Website kaufen: http://cubeoftruth.com/ An einem Cube of Truth darf a
+	uf keinen Fall Kleidung aus Tiermaterial und kein Kunstpelz (einschließlic
+	h Kunstpelzbesatz) getragen werden.\nRespektiert bitte jederzeit die Organ
+	iser der AV-Ortsgruppen und andere Freiwillige\, haltet euch an unsere Str
+	uktur und vertretet unsere Grundwerte\, während ihr an einem Cube of Truth
+	 teilnehmt. Die Ernsthaftigkeit und Professionalität unseres Handelns steh
+	en in direktem Verhältnis dazu\, wie die Öffentlichkeit uns wahrnimmt.\n\n
+	Danke\, dass ihr mit uns  aufsteht._______________________________________
+	_________________________________\nThe Cube of Truth is a street outreach 
+	campaign that employs direct action with the public\, in a structured mann
+	er. We use standard practice footage displayed on screens to expose the tr
+	uth about animal agriculture to the public and one on one conversations to
+	 educate them about animal exploitation. Before attending a Cube of Truth 
+	it is mandatory that you learn our AV Outreach Protocol by watching the fu
+	ll “Holding Non-Vegans Accountable” outreach workshop and reading our AV O
+	utreach Protocol document:\nHolding Non-Vegans Accountable Workshop:https:
+	//bit.ly/holdingnonvegansaccountable3\nAV Outreach Protocol:https://bit.ly
+	/AVOutreachProtocol \nMasks\, signs\, and outreach cards are provided by t
+	he organisers. Please bring a fully charged laptop or tablet if you have o
+	ne\, with our standard Cube footage and recommended media player already d
+	ownloaded and ready to play on a loop. It is important to prepare your dev
+	ice ahead of time. Make sure your device is muted\, has Wi-Fi disabled (to
+	 preserve battery life)\, has brightness maximized and password protection
+	 disabled.\nRecommended Media Player:http://www.videolan.org/vlc/\nCube Fo
+	otage:https://www.anonymousforthevoiceless.org/event-footage \nWhen attend
+	ing a Cube of Truth\, please do not bring bags or personal belongings unle
+	ss you absolutely need to. If you do\, this means you will be wearing your
+	 bag for the duration of the event\, so pack lightly. Any items brought to
+	 the Cube are your responsibility. ORGANISERS WILL NOT BE STORING AND ARE 
+	NOT RESPONSIBLE FOR YOUR PERSONAL BELONGINGS IN ANY WAY. \nAlways wear wea
+	ther appropriate\, PLAIN BLACK or AV branded clothing without any graphics
+	\, including logos of other organisations and/or vegan messages. This is e
+	ssential to our aesthetic. You can purchase official AV clothing on our we
+	bsite: http://cubeoftruth.com/ Absolutely no animal derived clothing\, foo
+	twear and no fake fur (including faux fur trims) is to be worn at a Cube o
+	f Truth.\nRespect AV chapter organisers and other volunteers at all times\
+	, adhere to our structure and represent our core values while attending a 
+	Cube of Truth. The seriousness and professionalism of our actions are dire
+	ctly proportional to how the public perceives us.\nThank You for Standing 
+	With Us.__________________________________________________________________
+	____________\n\n\n 
+URL:https://animalrightscalendar.com/events/cube-of-truth-karlsruhe-9-novem
+	ber-15-00-6729a9f58583a1e4c9c927ee
+GEO:49.0085179;8.3940857
+LOCATION:Stephanplatz\, 76133 Karlsruhe\, Deutschland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6825cd738aa51aaec48923e8
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:ABGESAGT: Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30)
+DTSTAMP:20260624T080856Z
+DTSTART:20250528T143000Z
+DTEND:20250528T163000Z
+SEQUENCE:1
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	\n\n\nSei dabei und hilf den Tieren!\nGemeinsam für Tierrechte\n\n\n📌Link 
+	zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\n\nHintergrundinfos:
+	\nhttps://www.peta.de/veganleben/tierrechte/\n\n\n\nPS: Bei unseren Demos 
+	wird nur die vegane Lebensweise vermittelt und das Leitbild von PETA vertr
+	eten. Diskriminierende Verhaltens- und Denkweisen jeglicher Art sind gener
+	ell nicht geduldet. Bitte lasse deine tierische Begleitung zu Hause.\nWeit
+	ere Infos unter:https://www.gemeinsam-fuer-tierrechte.de/streetteams/faq/\
+	n\n\nDas Streetteam auf Social Media:\nhttps://www.instagram.com/peta_stre
+	etteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/abgesagt-karlsruhe-ampelaktion-
+	i-streetteam-demo-16-30-18-30-6825cd738aa51aaec48923e8
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CANCELLED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6874ed5860547feca6e8e090
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30)
+DTSTAMP:20260624T080856Z
+DTSTART:20250723T143000Z
+DTEND:20250723T163000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	\n\n\nSei dabei und hilf den Tieren!\nGemeinsam für Tierrechte\n\n\n📌Link 
+	zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\n\nHintergrundinfos:
+	\nhttps://www.peta.de/veganleben/tierrechte/\n\n\nPS: Bei unseren Demos wi
+	rd nur die vegane Lebensweise vermittelt und das Leitbild von PETA vertret
+	en.https://www.gemeinsam-fuer-tierrechte.de/aktiv-werden/menschenrechte-ti
+	errechte/jeglicher Art sind generell nicht geduldet. Bitte lasse deine tie
+	rische Begleitung zu Hause. Weitere Infos unter:https://www.gemeinsam-fuer
+	-tierrechte.de/streetteams/faq/\n\n\nDas Streetteam auf Social Media:\nhtt
+	ps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-6874ed5860547feca6e8e090
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68fa3d822d6429f7d2d79fd8
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:ABGESAGT: Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30 Uhr
+	)
+DTSTAMP:20260624T080856Z
+DTSTART:20251112T153000Z
+DTEND:20251112T163000Z
+SEQUENCE:1
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	 Dazu stellen sich die Aktiven bei der Rotphase der Autos auf die Straße u
+	nd halten Schilder hoch.\n\nSei dabei und hilf den Tieren!\nGemeinsam für 
+	Tierrechte\n\n📌Link zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\
+	n\nHintergrundinfos:\nhttps://www.peta.de/veganleben/tierrechte/\n\n\nPS: 
+	Bei unseren Demos wird nur die vegane Lebensweise vermittelt und das Leitb
+	ild von PETA vertreten.https://www.gemeinsam-fuer-tierrechte.de/aktiv-werd
+	en/menschenrechte-tierrechte/jeglicher Art sind generell nicht geduldet. B
+	itte lasse deine tierische Begleitung zu Hause. Weitere Infos unter:https:
+	//www.gemeinsam-fuer-tierrechte.de/streetteams/faq/\n\nDas Streetteam auf 
+	Social Media:\nhttps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/abgesagt-karlsruhe-ampelaktion-
+	i-streetteam-demo-16-30-18-30-uhr-68fa3d822d6429f7d2d79fd8
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CANCELLED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68da503b2d6429f7d2c69bad
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30)
+DTSTAMP:20260624T080856Z
+DTSTART:20251008T143000Z
+DTEND:20251008T153000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	 Dazu stellen sich die Aktiven bei der Rotphase der Autos auf die Straße u
+	nd halten Schilder hoch.\n\nSei dabei und hilf den Tieren!\nGemeinsam für 
+	Tierrechte\n\n📌Link zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\
+	n\nHintergrundinfos:\nhttps://www.peta.de/veganleben/tierrechte/\n\n\nPS: 
+	Bei unseren Demos wird nur die vegane Lebensweise vermittelt und das Leitb
+	ild von PETA vertreten.https://www.gemeinsam-fuer-tierrechte.de/aktiv-werd
+	en/menschenrechte-tierrechte/jeglicher Art sind generell nicht geduldet. B
+	itte lasse deine tierische Begleitung zu Hause. Weitere Infos unter:https:
+	//www.gemeinsam-fuer-tierrechte.de/streetteams/faq/\n\nDas Streetteam auf 
+	Social Media:\nhttps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-68da503b2d6429f7d2c69bad
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69ebbc1f9dd21554c8f16d9a
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260506T143000Z
+DTEND:20260506T153000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	 Dazu stellen sich die Aktiven bei der Rotphase der Autos auf die Straße u
+	nd halten Schilder hoch.\n\nSei dabei und hilf den Tieren!\nGemeinsam für 
+	Tierrechte\n\n📌Link zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\
+	n\nHintergrundinfos:\nhttps://www.peta.de/veganleben/tierrechte/\n\n\n\n\n
+	Das Streetteam auf Social Media:\nhttps://www.instagram.com/peta_streettea
+	m_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-uhr-69ebbc1f9dd21554c8f16d9a
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69c5038f3772a293db996fda
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260422T143000Z
+DTEND:20260422T153000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	 Dazu stellen sich die Aktiven bei der Rotphase der Autos auf die Straße u
+	nd halten Schilder hoch.\n\nSei dabei und hilf den Tieren!\nGemeinsam für 
+	Tierrechte\n\n📌Link zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\
+	n\nHintergrundinfos:\nhttps://www.peta.de/veganleben/tierrechte/\n\n\n\n\n
+	Das Streetteam auf Social Media:\nhttps://www.instagram.com/peta_streettea
+	m_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-uhr-69c5038f3772a293db996fda
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:683e58cc53726d8c86e4f801
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30)
+DTSTAMP:20260624T080856Z
+DTSTART:20250611T143000Z
+DTEND:20250611T163000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	\n\n\nSei dabei und hilf den Tieren!\nGemeinsam für Tierrechte\n\n\n📌Link 
+	zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\n\nHintergrundinfos:
+	\nhttps://www.peta.de/veganleben/tierrechte/\n\n\nPS: Bei unseren Demos wi
+	rd nur die vegane Lebensweise vermittelt und das Leitbild von PETA vertret
+	en.https://www.gemeinsam-fuer-tierrechte.de/aktiv-werden/menschenrechte-ti
+	errechte/jeglicher Art sind generell nicht geduldet. Bitte lasse deine tie
+	rische Begleitung zu Hause. Weitere Infos unter:https://www.gemeinsam-fuer
+	-tierrechte.de/streetteams/faq/\n\n\nDas Streetteam auf Social Media:\nhtt
+	ps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-683e58cc53726d8c86e4f801
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68b6caf72d6429f7d2b822d6
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30)
+DTSTAMP:20260624T080856Z
+DTSTART:20250917T143000Z
+DTEND:20250917T153000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	\n\n\nSei dabei und hilf den Tieren!\nGemeinsam für Tierrechte\n\n\n📌Link 
+	zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\n\nHintergrundinfos:
+	\nhttps://www.peta.de/veganleben/tierrechte/\n\n\nPS: Bei unseren Demos wi
+	rd nur die vegane Lebensweise vermittelt und das Leitbild von PETA vertret
+	en.https://www.gemeinsam-fuer-tierrechte.de/aktiv-werden/menschenrechte-ti
+	errechte/jeglicher Art sind generell nicht geduldet. Bitte lasse deine tie
+	rische Begleitung zu Hause. Weitere Infos unter:https://www.gemeinsam-fuer
+	-tierrechte.de/streetteams/faq/\n\n\nDas Streetteam auf Social Media:\nhtt
+	ps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-68b6caf72d6429f7d2b822d6
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:689cb25c1f0e580f907c6a86
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Ampelaktion I Streetteam-Demo (16:30-18:30)
+DTSTAMP:20260624T080856Z
+DTSTART:20250820T143000Z
+DTEND:20250820T153000Z
+DESCRIPTION:Um auf Tierrechts-Themen und die vegane Lebensweise aufmerksam 
+	zu machen\, veranstaltet das freiwillige PETA Streetteam eine Ampelaktion.
+	\n\n\nSei dabei und hilf den Tieren!\nGemeinsam für Tierrechte\n\n\n📌Link 
+	zum Demoort:https://maps.app.goo.gl/hen8urmM28TCU7du5\n\nHintergrundinfos:
+	\nhttps://www.peta.de/veganleben/tierrechte/\n\n\nPS: Bei unseren Demos wi
+	rd nur die vegane Lebensweise vermittelt und das Leitbild von PETA vertret
+	en.https://www.gemeinsam-fuer-tierrechte.de/aktiv-werden/menschenrechte-ti
+	errechte/jeglicher Art sind generell nicht geduldet. Bitte lasse deine tie
+	rische Begleitung zu Hause. Weitere Infos unter:https://www.gemeinsam-fuer
+	-tierrechte.de/streetteams/faq/\n\n\nDas Streetteam auf Social Media:\nhtt
+	ps://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-ampelaktion-i-streett
+	eam-demo-16-30-18-30-689cb25c1f0e580f907c6a86
+GEO:49.0105783;8.3874195
+LOCATION:Kreuzung Kaiserallee/ Reinhold-Frank-Str. 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67c9e12d2454dec765328bb5
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-03-12t13-00-00000z-sudeingang-zoologischer-stadtgarten-76137-karlsruhe.jpg
+SUMMARY:Karlsruhe: Eisbären raus aus Zoos! I Streetteam-Demo (14-17 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20250312T130000Z
+DTEND:20250312T160000Z
+DESCRIPTION: https://www.peta.de/themen/eisbaeren/  sind die zweitgrößten L
+	andbeutegreifer der Welt. Die Einzelgänger haben in freier Wildbahn ein St
+	reifgebiet\, das mehrere Hundert bis Tausende Quadratkilometer umfassen ka
+	nn. Am Tag legen sie bis zu 30 Kilometer zurück. \nKaum ein Tier leidet so
+	 offensichtlich in Gefangenschaft wie sie\, trotzdem müssen noch rund 30 E
+	isbären ihr Dasein in deutschen  https://www.peta.de/themen/zoo/  fristen.
+	 \nIm Zoologischen Stadtgarten in Karlsruhe lebt ein vier Monate altes Eis
+	bärenbaby. Am Mittwoch\, den 12. März will der Zoo erstmals Publikum an da
+	s Gehege lassen. \nZu diesem Anlass fordern wir: Eisbären raus aus Zoos! \
+	nMit drei Eisbären-Kostümen\, einem Käfig\, Ketten\, Schildern und Banner 
+	wollen wir die Besuchenden über das Leid der Eisbären informieren.\nSei da
+	bei und hilf den Tieren!\nGemeinsam für Tierrechte \n \n📌Link zum Demoort:
+	  https://maps.app.goo.gl/8vePTsn1s2t7iNo76  \nHintergrundinfos:\n https:/
+	/www.peta.de/themen/eisbaeren-zoo/ \n\n \nPS: Bei unseren Demos wird nur d
+	ie vegane Lebensweise vermittelt und das Leitbild von PETA vertreten. Disk
+	riminierende Verhaltens- und Denkweisen jeglicher Art sind generell nicht 
+	geduldet. Bitte lasse deine tierische Begleitung zu Hause.\nWeitere Infos 
+	unter:  https://www.gemeinsam-fuer-tierrechte.de/streetteams/faq/ \n \nDas
+	 Streetteam auf Social Media:\n https://www.instagram.com/peta_streetteam_
+	karlsruhe/?hl=de \n \nSollte die Anmeldung bei dir nicht funktionieren\, s
+	chicke einfach eine Nachricht an  mailto:aktiv@peta.de  \n
+URL:https://animalrightscalendar.com/events/karlsruhe-eisbaren-raus-aus-zoo
+	s-i-streetteam-demo-14-17-uhr-67c9e12d2454dec765328bb5
+GEO:48.9952512;8.4009064
+LOCATION:Südeingang Zoologischer Stadtgarten 76137 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:68a0f18e2d6429f7d2b0d0d7
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Zoos abschaffen! I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20250830T110000Z
+DTEND:20250830T120000Z
+DESCRIPTION:In Zoos können Tiere ihre natürlichen Verhaltensweisen und Bedü
+	rfnisse nicht ausleben. Soziale Interaktionen\, die Nahrungssuche oder das
+	 Paarungsverhalten sind nur sehr eingeschränkt möglich.\n\nDas freiwillige
+	 PETA Streetteam Karlsruhe informiert daher über das Leid der Tiere in Zoo
+	s. Die Aktiven tragen Tiermasken\, halten Schilder\, Banner und verteilen 
+	Infomaterial. Mit Redebeiträgen machen sie zusätzlich auf das Thema aufmer
+	ksam.\n\nHintergrundinformationen findest du unter:https://www.peta.de/the
+	men/zoo/\n\n📌Link zum Demoort:https://maps.app.goo.gl/kuye3HThD9z7Sb9c7\n\
+	nSei dabei und hilf den Tieren!\nGemeinsam für Tierrechte\n\nDas Streettea
+	m auf Social Media:\nhttps://www.instagram.com/peta_streetteam_karlsruhe/?
+	hl=de\n
+URL:https://animalrightscalendar.com/events/karlsruhe-zoos-abschaffen-i-str
+	eetteam-demo-13-16-uhr-68a0f18e2d6429f7d2b0d0d7
+GEO:48.99508849999999;8.4010933
+LOCATION:Vor dem Südeingang Zoologischer Stadtgarten (HBF)\, Bahnhofpl. 4A\
+	, 76137 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69dd4bad9dd21554c8c7a87c
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4662.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - Workshop\, 26. April 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260426T120000Z
+DTEND:20260426T150000Z
+DESCRIPTION:🎓 IBC-Workshop: Inspiring Behaviour Change\nLerne\, wie du wirk
+	ungsvolle Gespräche führst und echte Verhaltensänderungen inspirierst. In 
+	diesem Workshop vermitteln wir die Grundlagen der IBC-Methode (Inspiring B
+	ehaviour Change) von We The Free — praxiserprobte Gesprächstechniken\, die
+	 uns helfen\, empathisch und wirkungsvoll mit Menschen in Kontakt zu trete
+	n. Wir üben gemeinsam\, wie man Debatten vermeidet\, Abwehrreaktionen abba
+	ut und Menschen dabei hilft\, ihr Handeln mit ihren Werten in Einklang zu 
+	bringen.\n📍 Veranstaltungsinformationen\nSamstag\, 26. April | 14:00–17:00
+	 Uhr (anschließend Zeit zum gemeinsamen Austausch)\n• Bitte melde dich an\
+	, damit wir die Gruppengröße gut planen können.\n🧠 Bereiten Sie sich vor u
+	nd machen Sie mit\n• Keine Vorkenntnisse nötig — der Workshop richtet sich
+	 an alle\, die ihre Gesprächsfähigkeiten im Tierschutzaktivismus weiterent
+	wickeln möchten. \n• Bring gerne Freunde mit und stärkt gemeinsam eure Wir
+	kung!\n💛 Unterstützen Sie WTF\, indem Sie Sponsor werden: https://www.acti
+	vism.wtf/donate\n🛍 Unterstützen Sie die Sache mit Merch: https://www.activ
+	ism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-workshop-
+	26-april-2026-69dd4bad9dd21554c8c7a87c
+GEO:49.0086231;8.4295967
+LOCATION:Gerwigstraße 41\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:675a59d34abd0ca1034fa3d6
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-01-03t13-30-00000z-festplatz-im-burggartengelande-63456-hanau.jpg
+SUMMARY:Karlsruhe: Tiere raus aus dem Zirkus I Streetteam- Demo
+DTSTAMP:20260624T080856Z
+DTSTART:20241228T170000Z
+DTEND:20241228T184500Z
+DESCRIPTION:Das Streetteam informiert über das Leid der Tiere im Zirkus. Di
+	e Tiere leiden unter den langen Transporten sowie der Dressur.\n \nDas Str
+	eetteam wird vor dem Eingang des Zirkus mit Banner\, Schildern und Flyern 
+	auf das Tierleid aufmerksam machen. Zusätzlich wird es Redebeiträge und Ru
+	fe geben\, um möglichst viele Passant*innen zu erreichen.\n \nHintergrundi
+	nformationen findest du unter:  https://www.peta.de/themen/zirkus/ \n \n📌 
+	Link zum Demoort:  https://maps.app.goo.gl/SUybHaCCVaRvpfuG7 \n \n \nSei d
+	abei und hilf den Tieren! \n \nGemeinsam für Tierrechte \n \nPS: Bei unser
+	en Demos wird nur die vegane Lebensweise vermittelt und das Leitbild von P
+	ETA vertreten. Diskriminierende Verhaltens- und Denkweisen jeglicher Art s
+	ind generell nicht geduldet. Bitte lasse deine tierische Begleitung zu Hau
+	se. Weitere Infos unter: www.gemeinsam-fuer-tierrechte.de/streetteams/faq/
+	 \n \n \n\nDas Streetteam auf Social Media:\n https://www.instagram.com/pe
+	ta_streetteam_karlsruhe/ \n
+URL:https://animalrightscalendar.com/events/karlsruhe-tiere-raus-aus-dem-zi
+	rkus-i-streetteam-demo-675a59d34abd0ca1034fa3d6
+GEO:49.0048816;8.434918099999999
+LOCATION:Durlacher Allee 66\, 76137 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a15b066463ac17349159033
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4843.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - WTF Movie Challenge\, 4. Juli 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260704T090000Z
+DTEND:20260704T120000Z
+DESCRIPTION:🎬 3-Minuten-Film-Challenge\nEntdecken Sie in nur drei Minuten d
+	ie Wahrheit hinter der Tierhaltung. Bei dieser einzigartigen Veranstaltung
+	 ist die Öffentlichkeit eingeladen\, sich einen kurzen\, eindrucksvollen F
+	ilm anzusehen\, der Standardpraktiken der Branche enthüllt. Im Gegenzug er
+	halten sie ein kostenloses veganes Leckerli. Es ist eine effektive und ans
+	prechende Möglichkeit\, sinnvolle Gespräche über Tierrechte anzustoßen.\n📍
+	 Veranstaltungsinformationen\n• Sie müssen nichts mitbringen – alle Materi
+	alien werden bereitgestellt.\n• Bitte vermeiden Sie das Tragen von Kleidun
+	g tierischen Ursprungs oder von veganen Slogans (um den Überraschungseffek
+	t zu bewahren).\n• Neu in der Freiwilligenarbeit? Erstellen Sie ein Konto 
+	unter https://www.mystats.wtf. Der Veranstalter hilft Ihnen beim Einstieg.
+	\nWeitere Informationen: https://www.activism.wtf/mystats\n🧠 Bereiten Sie 
+	sich vor und machen Sie mit\n• Möchten Sie Ihre Advocacy-Fähigkeiten auffr
+	ischen? Besuchen Sie https://www.activism.wtf/training\n• RSVP\, damit wir
+	 entsprechend planen können – und bringen Sie gerne vegane Freunde mit\, u
+	m zu helfen!\n• Treten Sie Ihrer lokalen WTF-Gruppe für Updates bei: https
+	://getinvolved.activism.wtf/?team=karlsruhe_de\n💛 Unterstützen Sie WTF\, i
+	ndem Sie Sponsor werden: https://www.activism.wtf/donate\n🛍 Unterstützen S
+	ie die Sache mit Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-wtf-movie
+	-challenge-4-juli-2026-6a15b066463ac17349159033
+GEO:49.0098598;8.4019716
+LOCATION:Kaiserstraße 90\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0c21cf463ac17349f54d7a
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4844.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - WTF Movie Challenge\, 8. August 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260808T120000Z
+DTEND:20260808T150000Z
+DESCRIPTION:🎬 3-Minuten-Film-Challenge\nEntdecken Sie in nur drei Minuten d
+	ie Wahrheit hinter der Tierhaltung. Bei dieser einzigartigen Veranstaltung
+	 ist die Öffentlichkeit eingeladen\, sich einen kurzen\, eindrucksvollen F
+	ilm anzusehen\, der Standardpraktiken der Branche enthüllt. Im Gegenzug er
+	halten sie ein kostenloses veganes Leckerli. Es ist eine effektive und ans
+	prechende Möglichkeit\, sinnvolle Gespräche über Tierrechte anzustoßen.\n📍
+	 Veranstaltungsinformationen\n• Sie müssen nichts mitbringen – alle Materi
+	alien werden bereitgestellt.\n• Bitte vermeiden Sie das Tragen von Kleidun
+	g tierischen Ursprungs oder von veganen Slogans (um den Überraschungseffek
+	t zu bewahren).\n• Neu in der Freiwilligenarbeit? Erstellen Sie ein Konto 
+	unter https://www.mystats.wtf. Der Veranstalter hilft Ihnen beim Einstieg.
+	\nWeitere Informationen: https://www.activism.wtf/mystats\n🧠 Bereiten Sie 
+	sich vor und machen Sie mit\n• Möchten Sie Ihre Advocacy-Fähigkeiten auffr
+	ischen? Besuchen Sie https://www.activism.wtf/training\n• RSVP\, damit wir
+	 entsprechend planen können – und bringen Sie gerne vegane Freunde mit\, u
+	m zu helfen!\n• Treten Sie Ihrer lokalen WTF-Gruppe für Updates bei: https
+	://getinvolved.activism.wtf/?team=karlsruhe_de\n💛 Unterstützen Sie WTF\, i
+	ndem Sie Sponsor werden: https://www.activism.wtf/donate\n🛍 Unterstützen S
+	ie die Sache mit Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-wtf-movie
+	-challenge-8-august-2026-6a0c21cf463ac17349f54d7a
+GEO:49.0098598;8.4019716
+LOCATION:Kaiserstraße 90\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0c21c5463ac17349f54d57
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67226614bd1a66952c63bcf7/4843.jpg
+SUMMARY:WTF: Karlsruhe\, Germany - WTF Movie Challenge\, 4. Juli 2026
+DTSTAMP:20260624T080856Z
+DTSTART:20260704T090000Z
+DTEND:20260704T120000Z
+DESCRIPTION:🎬 3-Minuten-Film-Challenge\nEntdecken Sie in nur drei Minuten d
+	ie Wahrheit hinter der Tierhaltung. Bei dieser einzigartigen Veranstaltung
+	 ist die Öffentlichkeit eingeladen\, sich einen kurzen\, eindrucksvollen F
+	ilm anzusehen\, der Standardpraktiken der Branche enthüllt. Im Gegenzug er
+	halten sie ein kostenloses veganes Leckerli. Es ist eine effektive und ans
+	prechende Möglichkeit\, sinnvolle Gespräche über Tierrechte anzustoßen.\n📍
+	 Veranstaltungsinformationen\n• Sie müssen nichts mitbringen – alle Materi
+	alien werden bereitgestellt.\n• Bitte vermeiden Sie das Tragen von Kleidun
+	g tierischen Ursprungs oder von veganen Slogans (um den Überraschungseffek
+	t zu bewahren).\n• Neu in der Freiwilligenarbeit? Erstellen Sie ein Konto 
+	unter https://www.mystats.wtf. Der Veranstalter hilft Ihnen beim Einstieg.
+	\nWeitere Informationen: https://www.activism.wtf/mystats\n🧠 Bereiten Sie 
+	sich vor und machen Sie mit\n• Möchten Sie Ihre Advocacy-Fähigkeiten auffr
+	ischen? Besuchen Sie https://www.activism.wtf/training\n• RSVP\, damit wir
+	 entsprechend planen können – und bringen Sie gerne vegane Freunde mit\, u
+	m zu helfen!\n• Treten Sie Ihrer lokalen WTF-Gruppe für Updates bei: https
+	://getinvolved.activism.wtf/?team=karlsruhe_de\n💛 Unterstützen Sie WTF\, i
+	ndem Sie Sponsor werden: https://www.activism.wtf/donate\n🛍 Unterstützen S
+	ie die Sache mit Merch: https://www.activism.wtf/shop
+URL:https://animalrightscalendar.com/events/wtf-karlsruhe-germany-wtf-movie
+	-challenge-4-juli-2026-6a0c21c5463ac17349f54d57
+GEO:49.0098598;8.4019716
+LOCATION:Kaiserstraße 90\, Karlsruhe\, Germany
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a38076d05c7bdd74a08e81d
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Blutiges Mahl I Streetteam-Demo (13-16 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260718T110000Z
+DTEND:20260718T120000Z
+DESCRIPTION:Damit Menschen Fleisch auf dem Teller haben können\, ist der To
+	d eines empfindungsfähigen Lebewesens unvermeidlich. Allein in deutschen S
+	chlachthäusern werden jährlich rund 750 Millionen Landtiere getötet. Deswe
+	gen protestiert das PETA-Streetteam. An einer feierlich gedeckten Tafel si
+	tzen Aktive. Vor ihnen stehen\, festlich angerichtet\, ein blutiger Kuhkop
+	f und andere Fleischattrappen. Die Aktiven stoßen mit Gläsern an\, in dene
+	n sich Kunstblut befindet. Im Hintergrund halten weitere Aktive Schilder\,
+	 die die Tierqual hinter dem Fleischkonsum thematisieren.\n\nHintergrundin
+	fos findest du unter: https://www.peta.de/themen/fleisch/📌Link zum Demoort
+	: https://maps.app.goo.gl/k8VU8orj9C3bpqET8 Sei dabei und hilf den Tieren!
+	Gemeinsam für Tierrechte PS: Bei unseren Demos wird nur die vegane Lebensw
+	eise vermittelt und das https://www.peta.de/ueberpeta/ vertreten. https://
+	www.gemeinsam-fuer-tierrechte.de/aktiv-werden/menschenrechte-tierrechte/ s
+	owie verschwörungsideologische Denkmuster sind generell nicht geduldet. Bi
+	tte lasse deinen tierischen Mitbewohner zu Hause. Antworten auf häufig ges
+	tellte Fragen findest du in unserem https://www.gemeinsam-fuer-tierrechte.
+	de/wp-content/uploads/2026/05/260422_Aktiven-Handbuch.pdf . Die Streetteam
+	s auf Social Media: https://www.instagram.com/peta_streetteam_karlsruhe/\n
+URL:https://animalrightscalendar.com/events/karlsruhe-blutiges-mahl-i-stree
+	tteam-demo-13-16-uhr-6a38076d05c7bdd74a08e81d
+GEO:49.0098946;8.3973575
+LOCATION:Kaiserstraße Ecke Waldstr\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a182a93463ac17349209d6b
+ATTACH;FMTTYPE=image/jpeg:https://assets.animalrightscalendar.com/event_images/67402c20b434cfdf738d3117/2025-05-28t14-30-00000z-kreuzung-kaiserallee-reinhold-frank-str-76133-karlsruhe.jpg
+SUMMARY:Karlsruhe: Hundegrill - Speziesismus beenden! I Streetteam-Demo (13
+	:00-16:00 Uhr)
+DTSTAMP:20260624T080856Z
+DTSTART:20260627T110000Z
+DTEND:20260627T120000Z
+DESCRIPTION:Viele Menschen sehen hinter Fleisch und anderen Produkten tieri
+	scher Herkunft nicht das getötete Lebewesen. Doch allein in Deutschland we
+	rden jährlich 800 Millionen Landlebewesen wegen ihres Fleisches gequält un
+	d getötet\, die Einteilung erfolgt hierbei willkürlich in „Haus-„ und „Nut
+	ztiere“.\n\nUm auf das Thema Speziesismus aufmerksam zu machen\, stellt da
+	s freiwillige PETA Streetteam die entscheidende Frage: „Wenn Sie keinen Hu
+	nd essen würden\, warum dann ein Schwein?“\nMit einer Hundeattrappe auf ei
+	nem Standgrill\, Schildern\, Flyern und einem Banner erinnern die Aktivist
+	:innen daran\, dass Schweine\, Hühner und Kühe ebenso wenig auf den Grill 
+	gehören wie Hunde und Katzen.\n\n\nHintergrundinfos findest du unter:https
+	://www.gemeinsam-fuer-tierrechte.de/themen/speziesismus/\n\n\n
+URL:https://animalrightscalendar.com/events/karlsruhe-hundegrill-speziesism
+	us-beenden-i-streetteam-demo-13-00-16-00-uhr-6a182a93463ac17349209d6b
+GEO:49.0098946;8.3973575
+LOCATION:Kaiserstraße Ecke Waldstr\, 76133 Karlsruhe
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-P1DT
+END:VALARM
+END:VEVENT
+END:VCALENDAR
